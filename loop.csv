@@ -1,0 +1,1067 @@
+datetime,total_number,day_type,ticket_type,Year-Month,Year,service,ticket_group,As Quarter,Fiscal Year
+2021-12-01 16:00:00,182,Weekday,Fareless,2021-12,2021,US 20 Commuter (PM),Anonymous Ticket,2022Q2,2022
+2022-01-01 16:00:00,213,Weekday,Fareless,2022-01,2022,US 20 Commuter (PM),Anonymous Ticket,2022Q3,2022
+2022-02-01 16:00:00,308,Weekday,Fareless,2022-02,2022,US 20 Commuter (PM),Anonymous Ticket,2022Q3,2022
+2022-03-01 16:00:00,358,Weekday,Fareless,2022-03,2022,US 20 Commuter (PM),Anonymous Ticket,2022Q3,2022
+2022-04-01 16:00:00,371,Weekday,Fareless,2022-04,2022,US 20 Commuter (PM),Anonymous Ticket,2022Q4,2022
+2022-05-01 16:00:00,428,Weekday,Fareless,2022-05,2022,US 20 Commuter (PM),Anonymous Ticket,2022Q4,2022
+2022-06-01 16:00:00,434,Weekday,Fareless,2022-06,2022,US 20 Commuter (PM),Anonymous Ticket,2022Q4,2022
+2022-07-01 16:00:00,410,Weekday,Fareless,2022-07,2022,US 20 Commuter (PM),Anonymous Ticket,2023Q1,2023
+2022-08-01 16:00:00,504,Weekday,Fareless,2022-08,2022,US 20 Commuter (PM),Anonymous Ticket,2023Q1,2023
+2022-09-01 16:00:00,538,Weekday,Fareless,2022-09,2022,US 20 Commuter (PM),Anonymous Ticket,2023Q1,2023
+2022-10-01 16:00:00,528,Weekday,Fareless,2022-10,2022,US 20 Commuter (PM),Anonymous Ticket,2023Q2,2023
+2022-11-01 16:00:00,611,Weekday,Fareless,2022-11,2022,US 20 Commuter (PM),Anonymous Ticket,2023Q2,2023
+2022-12-01 16:00:00,597,Weekday,Fareless,2022-12,2022,US 20 Commuter (PM),Anonymous Ticket,2023Q2,2023
+2023-01-01 16:00:00,429,Weekday,Fareless,2023-01,2023,US 20 Commuter (PM),Anonymous Ticket,2023Q3,2023
+2023-02-01 16:00:00,660,Weekday,Fareless,2023-02,2023,US 20 Commuter (PM),Anonymous Ticket,2023Q3,2023
+2023-03-01 16:00:00,651,Weekday,Fareless,2023-03,2023,US 20 Commuter (PM),Anonymous Ticket,2023Q3,2023
+2023-04-01 16:00:00,554,Weekday,Fareless,2023-04,2023,US 20 Commuter (PM),Anonymous Ticket,2023Q4,2023
+2021-12-01 16:00:00,782,Weekday,Fareless,2021-12,2021,Heart-to-Hub Uniter,Anonymous Ticket,2022Q2,2022
+2022-01-01 16:00:00,824,Weekday,Fareless,2022-01,2022,Heart-to-Hub Uniter,Anonymous Ticket,2022Q3,2022
+2022-02-01 16:00:00,999,Weekday,Fareless,2022-02,2022,Heart-to-Hub Uniter,Anonymous Ticket,2022Q3,2022
+2022-03-01 16:00:00,1317,Weekday,Fareless,2022-03,2022,Heart-to-Hub Uniter,Anonymous Ticket,2022Q3,2022
+2022-04-01 16:00:00,1296,Weekday,Fareless,2022-04,2022,Heart-to-Hub Uniter,Anonymous Ticket,2022Q4,2022
+2022-05-01 16:00:00,1389,Weekday,Fareless,2022-05,2022,Heart-to-Hub Uniter,Anonymous Ticket,2022Q4,2022
+2022-06-01 16:00:00,1255,Weekday,Fareless,2022-06,2022,Heart-to-Hub Uniter,Anonymous Ticket,2022Q4,2022
+2022-07-01 16:00:00,1015,Weekday,Fareless,2022-07,2022,Heart-to-Hub Uniter,Anonymous Ticket,2023Q1,2023
+2022-08-01 16:00:00,1374,Weekday,Fareless,2022-08,2022,Heart-to-Hub Uniter,Anonymous Ticket,2023Q1,2023
+2022-09-01 16:00:00,1520,Weekday,Fareless,2022-09,2022,Heart-to-Hub Uniter,Anonymous Ticket,2023Q1,2023
+2022-10-01 16:00:00,2643,Weekday,Fareless,2022-10,2022,Heart-to-Hub Uniter,Anonymous Ticket,2023Q2,2023
+2022-11-01 16:00:00,1828,Weekday,Fareless,2022-11,2022,Heart-to-Hub Uniter,Anonymous Ticket,2023Q2,2023
+2022-12-01 16:00:00,1293,Weekday,Fareless,2022-12,2022,Heart-to-Hub Uniter,Anonymous Ticket,2023Q2,2023
+2023-01-01 16:00:00,1277,Weekday,Fareless,2023-01,2023,Heart-to-Hub Uniter,Anonymous Ticket,2023Q3,2023
+2023-02-01 16:00:00,2097,Weekday,Fareless,2023-02,2023,Heart-to-Hub Uniter,Anonymous Ticket,2023Q3,2023
+2023-03-01 16:00:00,1920,Weekday,Fareless,2023-03,2023,Heart-to-Hub Uniter,Anonymous Ticket,2023Q3,2023
+2023-04-01 16:00:00,2184,Weekday,Fareless,2023-04,2023,Heart-to-Hub Uniter,Anonymous Ticket,2023Q4,2023
+2021-12-01 16:00:00,992,Weekday,Fareless,2021-12,2021,Campus Connector,Anonymous Ticket,2022Q2,2022
+2022-01-01 16:00:00,2181,Weekday,Fareless,2022-01,2022,Campus Connector,Anonymous Ticket,2022Q3,2022
+2022-02-01 16:00:00,2022,Weekday,Fareless,2022-02,2022,Campus Connector,Anonymous Ticket,2022Q3,2022
+2022-03-01 16:00:00,1821,Weekday,Fareless,2022-03,2022,Campus Connector,Anonymous Ticket,2022Q3,2022
+2022-04-01 16:00:00,2187,Weekday,Fareless,2022-04,2022,Campus Connector,Anonymous Ticket,2022Q4,2022
+2022-05-01 16:00:00,2188,Weekday,Fareless,2022-05,2022,Campus Connector,Anonymous Ticket,2022Q4,2022
+2022-06-01 16:00:00,1222,Weekday,Fareless,2022-06,2022,Campus Connector,Anonymous Ticket,2022Q4,2022
+2022-07-01 16:00:00,1079,Weekday,Fareless,2022-07,2022,Campus Connector,Anonymous Ticket,2023Q1,2023
+2022-08-01 16:00:00,1072,Weekday,Fareless,2022-08,2022,Campus Connector,Anonymous Ticket,2023Q1,2023
+2022-09-01 16:00:00,2173,Weekday,Fareless,2022-09,2022,Campus Connector,Anonymous Ticket,2023Q1,2023
+2022-10-01 16:00:00,4901,Weekday,Fareless,2022-10,2022,Campus Connector,Anonymous Ticket,2023Q2,2023
+2022-11-01 16:00:00,3689,Weekday,Fareless,2022-11,2022,Campus Connector,Anonymous Ticket,2023Q2,2023
+2022-12-01 16:00:00,1503,Weekday,Fareless,2022-12,2022,Campus Connector,Anonymous Ticket,2023Q2,2023
+2023-01-01 16:00:00,2820,Weekday,Fareless,2023-01,2023,Campus Connector,Anonymous Ticket,2023Q3,2023
+2023-02-01 16:00:00,3978,Weekday,Fareless,2023-02,2023,Campus Connector,Anonymous Ticket,2023Q3,2023
+2023-03-01 16:00:00,2523,Weekday,Fareless,2023-03,2023,Campus Connector,Anonymous Ticket,2023Q3,2023
+2023-04-01 16:00:00,3869,Weekday,Fareless,2023-04,2023,Campus Connector,Anonymous Ticket,2023Q4,2023
+2021-12-01 16:00:00,782,Weekday,Fareless,2021-12,2021,US 20 Commuter (AM),Anonymous Ticket,2022Q2,2022
+2022-01-01 16:00:00,824,Weekday,Fareless,2022-01,2022,US 20 Commuter (AM),Anonymous Ticket,2022Q3,2022
+2022-02-01 16:00:00,999,Weekday,Fareless,2022-02,2022,US 20 Commuter (AM),Anonymous Ticket,2022Q3,2022
+2022-03-01 16:00:00,1317,Weekday,Fareless,2022-03,2022,US 20 Commuter (AM),Anonymous Ticket,2022Q3,2022
+2022-04-01 16:00:00,1296,Weekday,Fareless,2022-04,2022,US 20 Commuter (AM),Anonymous Ticket,2022Q4,2022
+2022-05-01 16:00:00,1389,Weekday,Fareless,2022-05,2022,US 20 Commuter (AM),Anonymous Ticket,2022Q4,2022
+2022-06-01 16:00:00,1255,Weekday,Fareless,2022-06,2022,US 20 Commuter (AM),Anonymous Ticket,2022Q4,2022
+2022-07-01 16:00:00,1015,Weekday,Fareless,2022-07,2022,US 20 Commuter (AM),Anonymous Ticket,2023Q1,2023
+2022-08-01 16:00:00,1374,Weekday,Fareless,2022-08,2022,US 20 Commuter (AM),Anonymous Ticket,2023Q1,2023
+2022-09-01 16:00:00,1520,Weekday,Fareless,2022-09,2022,US 20 Commuter (AM),Anonymous Ticket,2023Q1,2023
+2022-10-01 16:00:00,2643,Weekday,Fareless,2022-10,2022,US 20 Commuter (AM),Anonymous Ticket,2023Q2,2023
+2022-11-01 16:00:00,1828,Weekday,Fareless,2022-11,2022,US 20 Commuter (AM),Anonymous Ticket,2023Q2,2023
+2022-12-01 16:00:00,1293,Weekday,Fareless,2022-12,2022,US 20 Commuter (AM),Anonymous Ticket,2023Q2,2023
+2023-01-01 16:00:00,1277,Weekday,Fareless,2023-01,2023,US 20 Commuter (AM),Anonymous Ticket,2023Q3,2023
+2023-02-01 16:00:00,2097,Weekday,Fareless,2023-02,2023,US 20 Commuter (AM),Anonymous Ticket,2023Q3,2023
+2023-03-01 16:00:00,1920,Weekday,Fareless,2023-03,2023,US 20 Commuter (AM),Anonymous Ticket,2023Q3,2023
+2023-04-01 16:00:00,2184,Weekday,Fareless,2023-04,2023,US 20 Commuter (AM),Anonymous Ticket,2023Q4,2023
+2002-07-01 10:00:00,1666,Weekday,Ticketed,2002-07,2002,Loop Original,Anonymous Ticket,2003Q1,2003
+2002-08-01 10:00:00,1699,Weekday,Ticketed,2002-08,2002,Loop Original,Anonymous Ticket,2003Q1,2003
+2002-09-01 10:00:00,1566,Weekday,Ticketed,2002-09,2002,Loop Original,Anonymous Ticket,2003Q1,2003
+2002-10-01 10:00:00,2351,Weekday,Ticketed,2002-10,2002,Loop Original,Anonymous Ticket,2003Q2,2003
+2002-11-01 10:00:00,1566,Weekday,Ticketed,2002-11,2002,Loop Original,Anonymous Ticket,2003Q2,2003
+2002-12-01 10:00:00,1545,Weekday,Ticketed,2002-12,2002,Loop Original,Anonymous Ticket,2003Q2,2003
+2003-01-01 10:00:00,2045,Weekday,Ticketed,2003-01,2003,Loop Original,Anonymous Ticket,2003Q3,2003
+2003-02-01 10:00:00,2876,Weekday,Ticketed,2003-02,2003,Loop Original,Anonymous Ticket,2003Q3,2003
+2003-03-01 10:00:00,1757,Weekday,Ticketed,2003-03,2003,Loop Original,Anonymous Ticket,2003Q3,2003
+2003-04-01 10:00:00,2067,Weekday,Ticketed,2003-04,2003,Loop Original,Anonymous Ticket,2003Q4,2003
+2003-05-01 10:00:00,1806,Weekday,Ticketed,2003-05,2003,Loop Original,Anonymous Ticket,2003Q4,2003
+2003-06-01 10:00:00,1946,Weekday,Ticketed,2003-06,2003,Loop Original,Anonymous Ticket,2003Q4,2003
+2003-07-01 10:00:00,1635,Weekday,Ticketed,2003-07,2003,Loop Original,Anonymous Ticket,2004Q1,2004
+2003-08-01 10:00:00,1457,Weekday,Ticketed,2003-08,2003,Loop Original,Anonymous Ticket,2004Q1,2004
+2003-09-01 10:00:00,1650,Weekday,Ticketed,2003-09,2003,Loop Original,Anonymous Ticket,2004Q1,2004
+2003-10-01 10:00:00,1797,Weekday,Ticketed,2003-10,2003,Loop Original,Anonymous Ticket,2004Q2,2004
+2003-11-01 10:00:00,1684,Weekday,Ticketed,2003-11,2003,Loop Original,Anonymous Ticket,2004Q2,2004
+2003-12-01 10:00:00,1444,Weekday,Ticketed,2003-12,2003,Loop Original,Anonymous Ticket,2004Q2,2004
+2004-01-01 10:00:00,1486,Weekday,Ticketed,2004-01,2004,Loop Original,Anonymous Ticket,2004Q3,2004
+2004-02-01 10:00:00,1597,Weekday,Ticketed,2004-02,2004,Loop Original,Anonymous Ticket,2004Q3,2004
+2004-03-01 10:00:00,1962,Weekday,Ticketed,2004-03,2004,Loop Original,Anonymous Ticket,2004Q3,2004
+2004-04-01 10:00:00,1940,Weekday,Ticketed,2004-04,2004,Loop Original,Anonymous Ticket,2004Q4,2004
+2004-05-01 10:00:00,1705,Weekday,Ticketed,2004-05,2004,Loop Original,Anonymous Ticket,2004Q4,2004
+2004-06-01 10:00:00,1582,Weekday,Ticketed,2004-06,2004,Loop Original,Anonymous Ticket,2004Q4,2004
+2004-07-01 10:00:00,1488,Weekday,Ticketed,2004-07,2004,Loop Original,Anonymous Ticket,2005Q1,2005
+2004-08-01 10:00:00,1348,Weekday,Ticketed,2004-08,2004,Loop Original,Anonymous Ticket,2005Q1,2005
+2004-09-01 10:00:00,1571,Weekday,Ticketed,2004-09,2004,Loop Original,Anonymous Ticket,2005Q1,2005
+2004-10-01 10:00:00,1904,Weekday,Ticketed,2004-10,2004,Loop Original,Anonymous Ticket,2005Q2,2005
+2004-11-01 10:00:00,1518,Weekday,Ticketed,2004-11,2004,Loop Original,Anonymous Ticket,2005Q2,2005
+2004-12-01 10:00:00,1209,Weekday,Ticketed,2004-12,2004,Loop Original,Anonymous Ticket,2005Q2,2005
+2005-01-01 10:00:00,1395,Weekday,Ticketed,2005-01,2005,Loop Original,Anonymous Ticket,2005Q3,2005
+2005-02-01 10:00:00,1047,Weekday,Ticketed,2005-02,2005,Loop Original,Anonymous Ticket,2005Q3,2005
+2005-03-01 10:00:00,1503,Weekday,Ticketed,2005-03,2005,Loop Original,Anonymous Ticket,2005Q3,2005
+2005-04-01 10:00:00,1575,Weekday,Ticketed,2005-04,2005,Loop Original,Anonymous Ticket,2005Q4,2005
+2005-05-01 10:00:00,1363,Weekday,Ticketed,2005-05,2005,Loop Original,Anonymous Ticket,2005Q4,2005
+2005-06-01 10:00:00,1589,Weekday,Ticketed,2005-06,2005,Loop Original,Anonymous Ticket,2005Q4,2005
+2005-07-01 10:00:00,1445,Weekday,Ticketed,2005-07,2005,Loop Original,Anonymous Ticket,2006Q1,2006
+2005-08-01 10:00:00,1751,Weekday,Ticketed,2005-08,2005,Loop Original,Anonymous Ticket,2006Q1,2006
+2005-09-01 10:00:00,747,Weekday,Ticketed,2005-09,2005,Loop Original,Anonymous Ticket,2006Q1,2006
+2005-10-01 10:00:00,2192,Weekday,Ticketed,2005-10,2005,Loop Original,Anonymous Ticket,2006Q2,2006
+2005-11-01 10:00:00,1648,Weekday,Ticketed,2005-11,2005,Loop Original,Anonymous Ticket,2006Q2,2006
+2005-12-01 10:00:00,1453,Weekday,Ticketed,2005-12,2005,Loop Original,Anonymous Ticket,2006Q2,2006
+2006-01-01 10:00:00,1050,Weekday,Ticketed,2006-01,2006,Loop Original,Anonymous Ticket,2006Q3,2006
+2006-02-01 10:00:00,1570,Weekday,Ticketed,2006-02,2006,Loop Original,Anonymous Ticket,2006Q3,2006
+2006-03-01 10:00:00,1650,Weekday,Ticketed,2006-03,2006,Loop Original,Anonymous Ticket,2006Q3,2006
+2006-04-01 10:00:00,1624,Weekday,Ticketed,2006-04,2006,Loop Original,Anonymous Ticket,2006Q4,2006
+2006-05-01 10:00:00,1460,Weekday,Ticketed,2006-05,2006,Loop Original,Anonymous Ticket,2006Q4,2006
+2006-06-01 10:00:00,1705,Weekday,Ticketed,2006-06,2006,Loop Original,Anonymous Ticket,2006Q4,2006
+2006-07-01 10:00:00,1168,Weekday,Ticketed,2006-07,2006,Loop Original,Anonymous Ticket,2007Q1,2007
+2006-08-01 10:00:00,1671,Weekday,Ticketed,2006-08,2006,Loop Original,Anonymous Ticket,2007Q1,2007
+2006-09-01 10:00:00,1548,Weekday,Ticketed,2006-09,2006,Loop Original,Anonymous Ticket,2007Q1,2007
+2006-10-01 10:00:00,1977,Weekday,Ticketed,2006-10,2006,Loop Original,Anonymous Ticket,2007Q2,2007
+2006-11-01 10:00:00,1399,Weekday,Ticketed,2006-11,2006,Loop Original,Anonymous Ticket,2007Q2,2007
+2006-12-01 10:00:00,1097,Weekday,Ticketed,2006-12,2006,Loop Original,Anonymous Ticket,2007Q2,2007
+2007-01-01 10:00:00,1706,Weekday,Ticketed,2007-01,2007,Loop Original,Anonymous Ticket,2007Q3,2007
+2007-02-01 10:00:00,1458,Weekday,Ticketed,2007-02,2007,Loop Original,Anonymous Ticket,2007Q3,2007
+2007-03-01 10:00:00,1612,Weekday,Ticketed,2007-03,2007,Loop Original,Anonymous Ticket,2007Q3,2007
+2007-04-01 10:00:00,1718,Weekday,Ticketed,2007-04,2007,Loop Original,Anonymous Ticket,2007Q4,2007
+2007-05-01 10:00:00,1591,Weekday,Ticketed,2007-05,2007,Loop Original,Anonymous Ticket,2007Q4,2007
+2007-06-01 10:00:00,1502,Weekday,Ticketed,2007-06,2007,Loop Original,Anonymous Ticket,2007Q4,2007
+2007-07-01 10:00:00,1333,Weekday,Ticketed,2007-07,2007,Loop Original,Anonymous Ticket,2008Q1,2008
+2007-08-01 10:00:00,1562,Weekday,Ticketed,2007-08,2007,Loop Original,Anonymous Ticket,2008Q1,2008
+2007-09-01 10:00:00,1579,Weekday,Ticketed,2007-09,2007,Loop Original,Anonymous Ticket,2008Q1,2008
+2007-10-01 10:00:00,2191,Weekday,Ticketed,2007-10,2007,Loop Original,Anonymous Ticket,2008Q2,2008
+2007-11-01 10:00:00,1524,Weekday,Ticketed,2007-11,2007,Loop Original,Anonymous Ticket,2008Q2,2008
+2007-12-01 10:00:00,1365,Weekday,Ticketed,2007-12,2007,Loop Original,Anonymous Ticket,2008Q2,2008
+2008-01-01 10:00:00,1700,Weekday,Ticketed,2008-01,2008,Loop Original,Anonymous Ticket,2008Q3,2008
+2008-02-01 10:00:00,1840,Weekday,Ticketed,2008-02,2008,Loop Original,Anonymous Ticket,2008Q3,2008
+2008-03-01 10:00:00,1614,Weekday,Ticketed,2008-03,2008,Loop Original,Anonymous Ticket,2008Q3,2008
+2008-04-01 10:00:00,2008,Weekday,Ticketed,2008-04,2008,Loop Original,Anonymous Ticket,2008Q4,2008
+2008-05-01 10:00:00,1778,Weekday,Ticketed,2008-05,2008,Loop Original,Anonymous Ticket,2008Q4,2008
+2008-06-01 10:00:00,1445,Weekday,Ticketed,2008-06,2008,Loop Original,Anonymous Ticket,2008Q4,2008
+2008-07-01 10:00:00,1927,Weekday,Ticketed,2008-07,2008,Loop Original,Anonymous Ticket,2009Q1,2009
+2008-08-01 10:00:00,1883,Weekday,Ticketed,2008-08,2008,Loop Original,Anonymous Ticket,2009Q1,2009
+2008-09-01 10:00:00,2189,Weekday,Ticketed,2008-09,2008,Loop Original,Anonymous Ticket,2009Q1,2009
+2008-10-01 10:00:00,2587,Weekday,Ticketed,2008-10,2008,Loop Original,Anonymous Ticket,2009Q2,2009
+2008-11-01 10:00:00,318,Weekday,Ticketed,2008-11,2008,Loop Original,Anonymous Ticket,2009Q2,2009
+2008-12-01 10:00:00,1434,Weekday,Ticketed,2008-12,2008,Loop Original,Anonymous Ticket,2009Q2,2009
+2009-01-01 10:00:00,938,Weekday,Ticketed,2009-01,2009,Loop Original,Anonymous Ticket,2009Q3,2009
+2009-02-01 10:00:00,1162,Weekday,Ticketed,2009-02,2009,Loop Original,Anonymous Ticket,2009Q3,2009
+2009-03-01 10:00:00,940,Weekday,Ticketed,2009-03,2009,Loop Original,Anonymous Ticket,2009Q3,2009
+2009-04-01 10:00:00,1110,Weekday,Ticketed,2009-04,2009,Loop Original,Anonymous Ticket,2009Q4,2009
+2009-05-01 10:00:00,918,Weekday,Ticketed,2009-05,2009,Loop Original,Anonymous Ticket,2009Q4,2009
+2009-06-01 10:00:00,1436,Weekday,Ticketed,2009-06,2009,Loop Original,Anonymous Ticket,2009Q4,2009
+2009-07-01 10:00:00,1983,Weekday,Ticketed,2009-07,2009,Loop Original,Anonymous Ticket,2010Q1,2010
+2009-08-01 10:00:00,1810,Weekday,Ticketed,2009-08,2009,Loop Original,Anonymous Ticket,2010Q1,2010
+2009-09-01 10:00:00,1855,Weekday,Ticketed,2009-09,2009,Loop Original,Anonymous Ticket,2010Q1,2010
+2009-10-01 10:00:00,1832,Weekday,Ticketed,2009-10,2009,Loop Original,Anonymous Ticket,2010Q2,2010
+2009-11-01 10:00:00,1368,Weekday,Ticketed,2009-11,2009,Loop Original,Anonymous Ticket,2010Q2,2010
+2009-12-01 10:00:00,1890,Weekday,Ticketed,2009-12,2009,Loop Original,Anonymous Ticket,2010Q2,2010
+2010-01-01 10:00:00,1999,Weekday,Ticketed,2010-01,2010,Loop Original,Anonymous Ticket,2010Q3,2010
+2010-02-01 10:00:00,1845,Weekday,Ticketed,2010-02,2010,Loop Original,Anonymous Ticket,2010Q3,2010
+2010-03-01 10:00:00,1837,Weekday,Ticketed,2010-03,2010,Loop Original,Anonymous Ticket,2010Q3,2010
+2010-04-01 10:00:00,2046,Weekday,Ticketed,2010-04,2010,Loop Original,Anonymous Ticket,2010Q4,2010
+2010-05-01 10:00:00,1497,Weekday,Ticketed,2010-05,2010,Loop Original,Anonymous Ticket,2010Q4,2010
+2010-06-01 10:00:00,1896,Weekday,Ticketed,2010-06,2010,Loop Original,Anonymous Ticket,2010Q4,2010
+2010-07-01 10:00:00,1937,Weekday,Ticketed,2010-07,2010,Loop Original,Anonymous Ticket,2011Q1,2011
+2010-08-01 10:00:00,1965,Weekday,Ticketed,2010-08,2010,Loop Original,Anonymous Ticket,2011Q1,2011
+2010-09-01 10:00:00,1977,Weekday,Ticketed,2010-09,2010,Loop Original,Anonymous Ticket,2011Q1,2011
+2010-10-01 10:00:00,2057,Weekday,Ticketed,2010-10,2010,Loop Original,Anonymous Ticket,2011Q2,2011
+2010-11-01 10:00:00,1723,Weekday,Ticketed,2010-11,2010,Loop Original,Anonymous Ticket,2011Q2,2011
+2010-12-01 10:00:00,1837,Weekday,Ticketed,2010-12,2010,Loop Original,Anonymous Ticket,2011Q2,2011
+2011-01-01 10:00:00,1745,Weekday,Ticketed,2011-01,2011,Loop Original,Anonymous Ticket,2011Q3,2011
+2011-02-01 10:00:00,2157,Weekday,Ticketed,2011-02,2011,Loop Original,Anonymous Ticket,2011Q3,2011
+2011-03-01 10:00:00,2009,Weekday,Ticketed,2011-03,2011,Loop Original,Anonymous Ticket,2011Q3,2011
+2011-04-01 10:00:00,1525,Weekday,Ticketed,2011-04,2011,Loop Original,Anonymous Ticket,2011Q4,2011
+2011-05-01 10:00:00,2371,Weekday,Ticketed,2011-05,2011,Loop Original,Anonymous Ticket,2011Q4,2011
+2011-06-01 10:00:00,2399,Weekday,Ticketed,2011-06,2011,Loop Original,Anonymous Ticket,2011Q4,2011
+2011-07-01 10:00:00,2320,Weekday,Ticketed,2011-07,2011,Loop Original,Anonymous Ticket,2012Q1,2012
+2011-08-01 10:00:00,2746,Weekday,Ticketed,2011-08,2011,Loop Original,Anonymous Ticket,2012Q1,2012
+2011-09-01 10:00:00,2845,Weekday,Ticketed,2011-09,2011,Loop Original,Anonymous Ticket,2012Q1,2012
+2011-10-01 10:00:00,2365,Weekday,Ticketed,2011-10,2011,Loop Original,Anonymous Ticket,2012Q2,2012
+2011-11-01 10:00:00,2124,Weekday,Ticketed,2011-11,2011,Loop Original,Anonymous Ticket,2012Q2,2012
+2011-12-01 10:00:00,2126,Weekday,Ticketed,2011-12,2011,Loop Original,Anonymous Ticket,2012Q2,2012
+2012-01-01 10:00:00,2604,Weekday,Ticketed,2012-01,2012,Loop Original,Anonymous Ticket,2012Q3,2012
+2012-02-01 10:00:00,2195,Weekday,Ticketed,2012-02,2012,Loop Original,Anonymous Ticket,2012Q3,2012
+2012-03-01 10:00:00,2149,Weekday,Ticketed,2012-03,2012,Loop Original,Anonymous Ticket,2012Q3,2012
+2012-04-01 10:00:00,2355,Weekday,Ticketed,2012-04,2012,Loop Original,Anonymous Ticket,2012Q4,2012
+2012-05-01 10:00:00,2289,Weekday,Ticketed,2012-05,2012,Loop Original,Anonymous Ticket,2012Q4,2012
+2012-06-01 10:00:00,2205,Weekday,Ticketed,2012-06,2012,Loop Original,Anonymous Ticket,2012Q4,2012
+2012-07-01 10:00:00,2060,Weekday,Ticketed,2012-07,2012,Loop Original,Anonymous Ticket,2013Q1,2013
+2012-08-01 10:00:00,2347,Weekday,Ticketed,2012-08,2012,Loop Original,Anonymous Ticket,2013Q1,2013
+2012-09-01 10:00:00,2152,Weekday,Ticketed,2012-09,2012,Loop Original,Anonymous Ticket,2013Q1,2013
+2012-10-01 10:00:00,2695,Weekday,Ticketed,2012-10,2012,Loop Original,Anonymous Ticket,2013Q2,2013
+2012-11-01 10:00:00,1877,Weekday,Ticketed,2012-11,2012,Loop Original,Anonymous Ticket,2013Q2,2013
+2012-12-01 10:00:00,1725,Weekday,Ticketed,2012-12,2012,Loop Original,Anonymous Ticket,2013Q2,2013
+2013-01-01 10:00:00,2534,Weekday,Ticketed,2013-01,2013,Loop Original,Anonymous Ticket,2013Q3,2013
+2013-02-01 10:00:00,1850,Weekday,Ticketed,2013-02,2013,Loop Original,Anonymous Ticket,2013Q3,2013
+2013-03-01 10:00:00,1855,Weekday,Ticketed,2013-03,2013,Loop Original,Anonymous Ticket,2013Q3,2013
+2013-04-01 10:00:00,2226,Weekday,Ticketed,2013-04,2013,Loop Original,Anonymous Ticket,2013Q4,2013
+2013-05-01 10:00:00,2443,Weekday,Ticketed,2013-05,2013,Loop Original,Anonymous Ticket,2013Q4,2013
+2013-06-01 10:00:00,2105,Weekday,Ticketed,2013-06,2013,Loop Original,Anonymous Ticket,2013Q4,2013
+2013-07-01 10:00:00,2163,Weekday,Ticketed,2013-07,2013,Loop Original,Anonymous Ticket,2014Q1,2014
+2013-08-01 10:00:00,1997,Weekday,Ticketed,2013-08,2013,Loop Original,Anonymous Ticket,2014Q1,2014
+2013-09-01 10:00:00,1784,Weekday,Ticketed,2013-09,2013,Loop Original,Anonymous Ticket,2014Q1,2014
+2013-10-01 10:00:00,4449,Weekday,Ticketed,2013-10,2013,Loop Original,Anonymous Ticket,2014Q2,2014
+2013-11-01 10:00:00,3228,Weekday,Ticketed,2013-11,2013,Loop Original,Anonymous Ticket,2014Q2,2014
+2013-12-01 10:00:00,2387,Weekday,Ticketed,2013-12,2013,Loop Original,Anonymous Ticket,2014Q2,2014
+2014-01-01 10:00:00,3640,Weekday,Ticketed,2014-01,2014,Loop Original,Anonymous Ticket,2014Q3,2014
+2014-02-01 10:00:00,3112,Weekday,Ticketed,2014-02,2014,Loop Original,Anonymous Ticket,2014Q3,2014
+2014-03-01 10:00:00,3002,Weekday,Ticketed,2014-03,2014,Loop Original,Anonymous Ticket,2014Q3,2014
+2014-04-01 10:00:00,4369,Weekday,Ticketed,2014-04,2014,Loop Original,Anonymous Ticket,2014Q4,2014
+2014-05-01 10:00:00,3550,Weekday,Ticketed,2014-05,2014,Loop Original,Anonymous Ticket,2014Q4,2014
+2014-06-01 10:00:00,1981,Weekday,Ticketed,2014-06,2014,Loop Original,Anonymous Ticket,2014Q4,2014
+2014-07-01 10:00:00,2227,Weekday,Ticketed,2014-07,2014,Loop Original,Anonymous Ticket,2015Q1,2015
+2014-08-01 10:00:00,1860,Weekday,Ticketed,2014-08,2014,Loop Original,Anonymous Ticket,2015Q1,2015
+2014-09-01 10:00:00,2289,Weekday,Ticketed,2014-09,2014,Loop Original,Anonymous Ticket,2015Q1,2015
+2014-10-01 10:00:00,2591,Weekday,Ticketed,2014-10,2014,Loop Original,Anonymous Ticket,2015Q2,2015
+2014-11-01 10:00:00,762,Weekday,Ticketed,2014-11,2014,Loop Original,Anonymous Ticket,2015Q2,2015
+2014-12-01 10:00:00,1595,Weekday,Ticketed,2014-12,2014,Loop Original,Anonymous Ticket,2015Q2,2015
+2015-01-01 10:00:00,1693,Weekday,Ticketed,2015-01,2015,Loop Original,Anonymous Ticket,2015Q3,2015
+2015-02-01 10:00:00,1863,Weekday,Ticketed,2015-02,2015,Loop Original,Anonymous Ticket,2015Q3,2015
+2015-03-01 10:00:00,1764,Weekday,Ticketed,2015-03,2015,Loop Original,Anonymous Ticket,2015Q3,2015
+2015-04-01 10:00:00,2028,Weekday,Ticketed,2015-04,2015,Loop Original,Anonymous Ticket,2015Q4,2015
+2015-05-01 10:00:00,3734,Weekday,Ticketed,2015-05,2015,Loop Original,Anonymous Ticket,2015Q4,2015
+2015-06-01 10:00:00,2843,Weekday,Ticketed,2015-06,2015,Loop Original,Anonymous Ticket,2015Q4,2015
+2015-07-01 10:00:00,2762,Weekday,Ticketed,2015-07,2015,Loop Original,Anonymous Ticket,2016Q1,2016
+2015-08-01 10:00:00,1881,Weekday,Ticketed,2015-08,2015,Loop Original,Anonymous Ticket,2016Q1,2016
+2015-09-01 10:00:00,1712,Weekday,Ticketed,2015-09,2015,Loop Original,Anonymous Ticket,2016Q1,2016
+2015-10-01 10:00:00,2165,Weekday,Ticketed,2015-10,2015,Loop Original,Anonymous Ticket,2016Q2,2016
+2015-11-01 10:00:00,3401,Weekday,Ticketed,2015-11,2015,Loop Original,Anonymous Ticket,2016Q2,2016
+2015-12-01 10:00:00,2288,Weekday,Ticketed,2015-12,2015,Loop Original,Anonymous Ticket,2016Q2,2016
+2016-01-01 10:00:00,1812,Weekday,Ticketed,2016-01,2016,Loop Original,Anonymous Ticket,2016Q3,2016
+2016-02-01 10:00:00,1729,Weekday,Ticketed,2016-02,2016,Loop Original,Anonymous Ticket,2016Q3,2016
+2016-03-01 10:00:00,2035,Weekday,Ticketed,2016-03,2016,Loop Original,Anonymous Ticket,2016Q3,2016
+2016-04-01 10:00:00,1938,Weekday,Ticketed,2016-04,2016,Loop Original,Anonymous Ticket,2016Q4,2016
+2016-05-01 10:00:00,3212,Weekday,Ticketed,2016-05,2016,Loop Original,Anonymous Ticket,2016Q4,2016
+2016-06-01 10:00:00,2696,Weekday,Ticketed,2016-06,2016,Loop Original,Anonymous Ticket,2016Q4,2016
+2016-07-01 10:00:00,1637,Weekday,Ticketed,2016-07,2016,Loop Original,Anonymous Ticket,2017Q1,2017
+2016-08-01 10:00:00,1405,Weekday,Ticketed,2016-08,2016,Loop Original,Anonymous Ticket,2017Q1,2017
+2016-09-01 10:00:00,1871,Weekday,Ticketed,2016-09,2016,Loop Original,Anonymous Ticket,2017Q1,2017
+2016-10-01 10:00:00,3905,Weekday,Ticketed,2016-10,2016,Loop Original,Anonymous Ticket,2017Q2,2017
+2016-11-01 10:00:00,3364,Weekday,Ticketed,2016-11,2016,Loop Original,Anonymous Ticket,2017Q2,2017
+2016-12-01 10:00:00,1450,Weekday,Ticketed,2016-12,2016,Loop Original,Anonymous Ticket,2017Q2,2017
+2017-01-01 10:00:00,3200,Weekday,Ticketed,2017-01,2017,Loop Original,Anonymous Ticket,2017Q3,2017
+2017-02-01 10:00:00,1549,Weekday,Ticketed,2017-02,2017,Loop Original,Anonymous Ticket,2017Q3,2017
+2017-03-01 10:00:00,2920,Weekday,Ticketed,2017-03,2017,Loop Original,Anonymous Ticket,2017Q3,2017
+2017-04-01 10:00:00,3300,Weekday,Ticketed,2017-04,2017,Loop Original,Anonymous Ticket,2017Q4,2017
+2017-05-01 10:00:00,3261,Weekday,Ticketed,2017-05,2017,Loop Original,Anonymous Ticket,2017Q4,2017
+2017-06-01 10:00:00,5398,Weekday,Ticketed,2017-06,2017,Loop Original,Anonymous Ticket,2017Q4,2017
+2017-07-01 10:00:00,2133,Weekday,Ticketed,2017-07,2017,Loop Original,Anonymous Ticket,2018Q1,2018
+2017-08-01 10:00:00,2097,Weekday,Ticketed,2017-08,2017,Loop Original,Anonymous Ticket,2018Q1,2018
+2017-09-01 10:00:00,2375,Weekday,Ticketed,2017-09,2017,Loop Original,Anonymous Ticket,2018Q1,2018
+2017-10-01 10:00:00,3479,Weekday,Ticketed,2017-10,2017,Loop Original,Anonymous Ticket,2018Q2,2018
+2017-11-01 10:00:00,2640,Weekday,Ticketed,2017-11,2017,Loop Original,Anonymous Ticket,2018Q2,2018
+2017-12-01 10:00:00,277,Weekday,Ticketed,2017-12,2017,Loop Original,Anonymous Ticket,2018Q2,2018
+2018-01-01 10:00:00,3060,Weekday,Ticketed,2018-01,2018,Loop Original,Anonymous Ticket,2018Q3,2018
+2018-02-01 10:00:00,3169,Weekday,Ticketed,2018-02,2018,Loop Original,Anonymous Ticket,2018Q3,2018
+2018-03-01 10:00:00,2839,Weekday,Ticketed,2018-03,2018,Loop Original,Anonymous Ticket,2018Q3,2018
+2018-04-01 10:00:00,4065,Weekday,Ticketed,2018-04,2018,Loop Original,Anonymous Ticket,2018Q4,2018
+2018-05-01 10:00:00,3025,Weekday,Ticketed,2018-05,2018,Loop Original,Anonymous Ticket,2018Q4,2018
+2018-06-01 10:00:00,2353,Weekday,Ticketed,2018-06,2018,Loop Original,Anonymous Ticket,2018Q4,2018
+2018-07-01 10:00:00,1246,Weekday,Ticketed,2018-07,2018,Loop Original,Anonymous Ticket,2019Q1,2019
+2018-08-01 10:00:00,1938,Weekday,Ticketed,2018-08,2018,Loop Original,Anonymous Ticket,2019Q1,2019
+2018-09-01 10:00:00,2525,Weekday,Ticketed,2018-09,2018,Loop Original,Anonymous Ticket,2019Q1,2019
+2018-10-01 10:00:00,3308,Weekday,Ticketed,2018-10,2018,Loop Original,Anonymous Ticket,2019Q2,2019
+2018-11-01 10:00:00,2401,Weekday,Ticketed,2018-11,2018,Loop Original,Anonymous Ticket,2019Q2,2019
+2018-12-01 10:00:00,1522,Weekday,Ticketed,2018-12,2018,Loop Original,Anonymous Ticket,2019Q2,2019
+2019-01-01 10:00:00,2674,Weekday,Ticketed,2019-01,2019,Loop Original,Anonymous Ticket,2019Q3,2019
+2019-02-01 10:00:00,2446,Weekday,Ticketed,2019-02,2019,Loop Original,Anonymous Ticket,2019Q3,2019
+2019-03-01 10:00:00,1305,Weekday,Ticketed,2019-03,2019,Loop Original,Anonymous Ticket,2019Q3,2019
+2019-04-01 10:00:00,1775,Weekday,Ticketed,2019-04,2019,Loop Original,Anonymous Ticket,2019Q4,2019
+2019-05-01 10:00:00,2203,Weekday,Ticketed,2019-05,2019,Loop Original,Anonymous Ticket,2019Q4,2019
+2019-06-01 10:00:00,1976,Weekday,Ticketed,2019-06,2019,Loop Original,Anonymous Ticket,2019Q4,2019
+2019-07-01 10:00:00,1598,Weekday,Ticketed,2019-07,2019,Loop Original,Anonymous Ticket,2020Q1,2020
+2019-08-01 10:00:00,1994,Weekday,Ticketed,2019-08,2019,Loop Original,Anonymous Ticket,2020Q1,2020
+2019-09-01 10:00:00,1627,Weekday,Ticketed,2019-09,2019,Loop Original,Anonymous Ticket,2020Q1,2020
+2019-10-01 10:00:00,3112,Weekday,Ticketed,2019-10,2019,Loop Original,Anonymous Ticket,2020Q2,2020
+2019-11-01 10:00:00,1693,Weekday,Ticketed,2019-11,2019,Loop Original,Anonymous Ticket,2020Q2,2020
+2019-12-01 10:00:00,1519,Weekday,Ticketed,2019-12,2019,Loop Original,Anonymous Ticket,2020Q2,2020
+2020-01-01 10:00:00,2567,Weekday,Ticketed,2020-01,2020,Loop Original,Anonymous Ticket,2020Q3,2020
+2020-02-01 10:00:00,1521,Weekday,Ticketed,2020-02,2020,Loop Original,Anonymous Ticket,2020Q3,2020
+2020-03-01 10:00:00,947,Weekday,Ticketed,2020-03,2020,Loop Original,Anonymous Ticket,2020Q3,2020
+2020-04-01 10:00:00,762,Weekday,Fareless,2020-04,2020,Loop Original,Anonymous Ticket,2020Q4,2020
+2020-05-01 10:00:00,845,Weekday,Fareless,2020-05,2020,Loop Original,Anonymous Ticket,2020Q4,2020
+2020-06-01 10:00:00,632,Weekday,Fareless,2020-06,2020,Loop Original,Anonymous Ticket,2020Q4,2020
+2020-07-01 10:00:00,1121,Weekday,Fareless,2020-07,2020,Loop Original,Anonymous Ticket,2021Q1,2021
+2020-08-01 10:00:00,1121,Weekday,Fareless,2020-08,2020,Loop Original,Anonymous Ticket,2021Q1,2021
+2020-09-01 10:00:00,1085,Weekday,Fareless,2020-09,2020,Loop Original,Anonymous Ticket,2021Q1,2021
+2020-10-01 10:00:00,1398,Weekday,Fareless,2020-10,2020,Loop Original,Anonymous Ticket,2021Q2,2021
+2020-11-01 10:00:00,986,Weekday,Fareless,2020-11,2020,Loop Original,Anonymous Ticket,2021Q2,2021
+2020-12-01 10:00:00,1082,Weekday,Fareless,2020-12,2020,Loop Original,Anonymous Ticket,2021Q2,2021
+2021-01-01 10:00:00,1245,Weekday,Fareless,2021-01,2021,Loop Original,Anonymous Ticket,2021Q3,2021
+2021-02-01 10:00:00,1313,Weekday,Fareless,2021-02,2021,Loop Original,Anonymous Ticket,2021Q3,2021
+2021-03-01 10:00:00,1482,Weekday,Fareless,2021-03,2021,Loop Original,Anonymous Ticket,2021Q3,2021
+2021-04-01 10:00:00,1586,Weekday,Fareless,2021-04,2021,Loop Original,Anonymous Ticket,2021Q4,2021
+2021-05-01 10:00:00,1335,Weekday,Fareless,2021-05,2021,Loop Original,Anonymous Ticket,2021Q4,2021
+2021-06-01 10:00:00,1392,Weekday,Fareless,2021-06,2021,Loop Original,Anonymous Ticket,2021Q4,2021
+2021-07-01 10:00:00,1522,Weekday,Fareless,2021-07,2021,Loop Original,Anonymous Ticket,2022Q1,2022
+2021-08-01 10:00:00,1405,Weekday,Fareless,2021-08,2021,Loop Original,Anonymous Ticket,2022Q1,2022
+2021-09-01 10:00:00,1130,Weekday,Fareless,2021-09,2021,Loop Original,Anonymous Ticket,2022Q1,2022
+2021-10-01 10:00:00,2966,Weekday,Fareless,2021-10,2021,Loop Original,Anonymous Ticket,2022Q2,2022
+2021-11-01 10:00:00,2984,Weekday,Fareless,2021-11,2021,Loop Original,Anonymous Ticket,2022Q2,2022
+2021-12-01 10:00:00,1946,Weekday,Fareless,2021-12,2021,Loop Original,Anonymous Ticket,2022Q2,2022
+2022-01-01 10:00:00,3212,Weekday,Fareless,2022-01,2022,Loop Original,Anonymous Ticket,2022Q3,2022
+2022-02-01 10:00:00,3404,Weekday,Fareless,2022-02,2022,Loop Original,Anonymous Ticket,2022Q3,2022
+2022-03-01 10:00:00,3734,Weekday,Fareless,2022-03,2022,Loop Original,Anonymous Ticket,2022Q3,2022
+2022-04-01 10:00:00,4419,Weekday,Fareless,2022-04,2022,Loop Original,Anonymous Ticket,2022Q4,2022
+2022-05-01 10:00:00,4445,Weekday,Fareless,2022-05,2022,Loop Original,Anonymous Ticket,2022Q4,2022
+2022-06-01 10:00:00,3366,Weekday,Fareless,2022-06,2022,Loop Original,Anonymous Ticket,2022Q4,2022
+2022-07-01 10:00:00,3195,Weekday,Fareless,2022-07,2022,Loop Original,Anonymous Ticket,2023Q1,2023
+2022-08-01 10:00:00,3284,Weekday,Fareless,2022-08,2022,Loop Original,Anonymous Ticket,2023Q1,2023
+2022-09-01 10:00:00,3409,Weekday,Fareless,2022-09,2022,Loop Original,Anonymous Ticket,2023Q1,2023
+2022-10-01 10:00:00,8640,Weekday,Fareless,2022-10,2022,Loop Original,Anonymous Ticket,2023Q2,2023
+2022-11-01 10:00:00,6798,Weekday,Fareless,2022-11,2022,Loop Original,Anonymous Ticket,2023Q2,2023
+2022-12-01 10:00:00,3921,Weekday,Fareless,2022-12,2022,Loop Original,Anonymous Ticket,2023Q2,2023
+2002-07-01 11:00:00,792,Weekday,LBCC Pass,2002-07,2002,Loop Original,School Pass,2003Q1,2003
+2002-08-01 11:00:00,737,Weekday,LBCC Pass,2002-08,2002,Loop Original,School Pass,2003Q1,2003
+2002-09-01 11:00:00,454,Weekday,LBCC Pass,2002-09,2002,Loop Original,School Pass,2003Q1,2003
+2002-10-01 11:00:00,4155,Weekday,LBCC Pass,2002-10,2002,Loop Original,School Pass,2003Q2,2003
+2002-11-01 11:00:00,2921,Weekday,LBCC Pass,2002-11,2002,Loop Original,School Pass,2003Q2,2003
+2002-12-01 11:00:00,1326,Weekday,LBCC Pass,2002-12,2002,Loop Original,School Pass,2003Q2,2003
+2003-01-01 11:00:00,3500,Weekday,LBCC Pass,2003-01,2003,Loop Original,School Pass,2003Q3,2003
+2003-02-01 11:00:00,3290,Weekday,LBCC Pass,2003-02,2003,Loop Original,School Pass,2003Q3,2003
+2003-03-01 11:00:00,2407,Weekday,LBCC Pass,2003-03,2003,Loop Original,School Pass,2003Q3,2003
+2003-04-01 11:00:00,4205,Weekday,LBCC Pass,2003-04,2003,Loop Original,School Pass,2003Q4,2003
+2003-05-01 11:00:00,3689,Weekday,LBCC Pass,2003-05,2003,Loop Original,School Pass,2003Q4,2003
+2003-06-01 11:00:00,1582,Weekday,LBCC Pass,2003-06,2003,Loop Original,School Pass,2003Q4,2003
+2003-07-01 11:00:00,1124,Weekday,LBCC Pass,2003-07,2003,Loop Original,School Pass,2004Q1,2004
+2003-08-01 11:00:00,422,Weekday,LBCC Pass,2003-08,2003,Loop Original,School Pass,2004Q1,2004
+2003-09-01 11:00:00,777,Weekday,LBCC Pass,2003-09,2003,Loop Original,School Pass,2004Q1,2004
+2003-10-01 11:00:00,6251,Weekday,LBCC Pass,2003-10,2003,Loop Original,School Pass,2004Q2,2004
+2003-11-01 11:00:00,3396,Weekday,LBCC Pass,2003-11,2003,Loop Original,School Pass,2004Q2,2004
+2003-12-01 11:00:00,1706,Weekday,LBCC Pass,2003-12,2003,Loop Original,School Pass,2004Q2,2004
+2004-01-01 11:00:00,4046,Weekday,LBCC Pass,2004-01,2004,Loop Original,School Pass,2004Q3,2004
+2004-02-01 11:00:00,4190,Weekday,LBCC Pass,2004-02,2004,Loop Original,School Pass,2004Q3,2004
+2004-03-01 11:00:00,3320,Weekday,LBCC Pass,2004-03,2004,Loop Original,School Pass,2004Q3,2004
+2004-04-01 11:00:00,4419,Weekday,LBCC Pass,2004-04,2004,Loop Original,School Pass,2004Q4,2004
+2004-05-01 11:00:00,3954,Weekday,LBCC Pass,2004-05,2004,Loop Original,School Pass,2004Q4,2004
+2004-06-01 11:00:00,1707,Weekday,LBCC Pass,2004-06,2004,Loop Original,School Pass,2004Q4,2004
+2004-07-01 11:00:00,1056,Weekday,LBCC Pass,2004-07,2004,Loop Original,School Pass,2005Q1,2005
+2004-08-01 11:00:00,706,Weekday,LBCC Pass,2004-08,2004,Loop Original,School Pass,2005Q1,2005
+2004-09-01 11:00:00,960,Weekday,LBCC Pass,2004-09,2004,Loop Original,School Pass,2005Q1,2005
+2004-10-01 11:00:00,4411,Weekday,LBCC Pass,2004-10,2004,Loop Original,School Pass,2005Q2,2005
+2004-11-01 11:00:00,3564,Weekday,LBCC Pass,2004-11,2004,Loop Original,School Pass,2005Q2,2005
+2004-12-01 11:00:00,1071,Weekday,LBCC Pass,2004-12,2004,Loop Original,School Pass,2005Q2,2005
+2005-01-01 11:00:00,3538,Weekday,LBCC Pass,2005-01,2005,Loop Original,School Pass,2005Q3,2005
+2005-02-01 11:00:00,3366,Weekday,LBCC Pass,2005-02,2005,Loop Original,School Pass,2005Q3,2005
+2005-03-01 11:00:00,2877,Weekday,LBCC Pass,2005-03,2005,Loop Original,School Pass,2005Q3,2005
+2005-04-01 11:00:00,3826,Weekday,LBCC Pass,2005-04,2005,Loop Original,School Pass,2005Q4,2005
+2005-05-01 11:00:00,3658,Weekday,LBCC Pass,2005-05,2005,Loop Original,School Pass,2005Q4,2005
+2005-06-01 11:00:00,1310,Weekday,LBCC Pass,2005-06,2005,Loop Original,School Pass,2005Q4,2005
+2005-07-01 11:00:00,856,Weekday,LBCC Pass,2005-07,2005,Loop Original,School Pass,2006Q1,2006
+2005-08-01 11:00:00,731,Weekday,LBCC Pass,2005-08,2005,Loop Original,School Pass,2006Q1,2006
+2005-09-01 11:00:00,1774,Weekday,LBCC Pass,2005-09,2005,Loop Original,School Pass,2006Q1,2006
+2005-10-01 11:00:00,5373,Weekday,LBCC Pass,2005-10,2005,Loop Original,School Pass,2006Q2,2006
+2005-11-01 11:00:00,4598,Weekday,LBCC Pass,2005-11,2005,Loop Original,School Pass,2006Q2,2006
+2005-12-01 11:00:00,1175,Weekday,LBCC Pass,2005-12,2005,Loop Original,School Pass,2006Q2,2006
+2006-01-01 11:00:00,3810,Weekday,LBCC Pass,2006-01,2006,Loop Original,School Pass,2006Q3,2006
+2006-02-01 11:00:00,4342,Weekday,LBCC Pass,2006-02,2006,Loop Original,School Pass,2006Q3,2006
+2006-03-01 11:00:00,3456,Weekday,LBCC Pass,2006-03,2006,Loop Original,School Pass,2006Q3,2006
+2006-04-01 11:00:00,4248,Weekday,LBCC Pass,2006-04,2006,Loop Original,School Pass,2006Q4,2006
+2006-05-01 11:00:00,4998,Weekday,LBCC Pass,2006-05,2006,Loop Original,School Pass,2006Q4,2006
+2006-06-01 11:00:00,2055,Weekday,LBCC Pass,2006-06,2006,Loop Original,School Pass,2006Q4,2006
+2006-07-01 11:00:00,818,Weekday,LBCC Pass,2006-07,2006,Loop Original,School Pass,2007Q1,2007
+2006-08-01 11:00:00,732,Weekday,LBCC Pass,2006-08,2006,Loop Original,School Pass,2007Q1,2007
+2006-09-01 11:00:00,1741,Weekday,LBCC Pass,2006-09,2006,Loop Original,School Pass,2007Q1,2007
+2006-10-01 11:00:00,6314,Weekday,LBCC Pass,2006-10,2006,Loop Original,School Pass,2007Q2,2007
+2006-11-01 11:00:00,4892,Weekday,LBCC Pass,2006-11,2006,Loop Original,School Pass,2007Q2,2007
+2006-12-01 11:00:00,1151,Weekday,LBCC Pass,2006-12,2006,Loop Original,School Pass,2007Q2,2007
+2007-01-01 11:00:00,4365,Weekday,LBCC Pass,2007-01,2007,Loop Original,School Pass,2007Q3,2007
+2007-02-01 11:00:00,4719,Weekday,LBCC Pass,2007-02,2007,Loop Original,School Pass,2007Q3,2007
+2007-03-01 11:00:00,3569,Weekday,LBCC Pass,2007-03,2007,Loop Original,School Pass,2007Q3,2007
+2007-04-01 11:00:00,4772,Weekday,LBCC Pass,2007-04,2007,Loop Original,School Pass,2007Q4,2007
+2007-05-01 11:00:00,4857,Weekday,LBCC Pass,2007-05,2007,Loop Original,School Pass,2007Q4,2007
+2007-06-01 11:00:00,2249,Weekday,LBCC Pass,2007-06,2007,Loop Original,School Pass,2007Q4,2007
+2007-07-01 11:00:00,1166,Weekday,LBCC Pass,2007-07,2007,Loop Original,School Pass,2008Q1,2008
+2007-08-01 11:00:00,981,Weekday,LBCC Pass,2007-08,2007,Loop Original,School Pass,2008Q1,2008
+2007-09-01 11:00:00,1668,Weekday,LBCC Pass,2007-09,2007,Loop Original,School Pass,2008Q1,2008
+2007-10-01 11:00:00,6374,Weekday,LBCC Pass,2007-10,2007,Loop Original,School Pass,2008Q2,2008
+2007-11-01 11:00:00,4544,Weekday,LBCC Pass,2007-11,2007,Loop Original,School Pass,2008Q2,2008
+2007-12-01 11:00:00,773,Weekday,LBCC Pass,2007-12,2007,Loop Original,School Pass,2008Q2,2008
+2008-01-01 11:00:00,4500,Weekday,LBCC Pass,2008-01,2008,Loop Original,School Pass,2008Q3,2008
+2008-02-01 11:00:00,4582,Weekday,LBCC Pass,2008-02,2008,Loop Original,School Pass,2008Q3,2008
+2008-03-01 11:00:00,3253,Weekday,LBCC Pass,2008-03,2008,Loop Original,School Pass,2008Q3,2008
+2008-04-01 11:00:00,5350,Weekday,LBCC Pass,2008-04,2008,Loop Original,School Pass,2008Q4,2008
+2008-05-01 11:00:00,4962,Weekday,LBCC Pass,2008-05,2008,Loop Original,School Pass,2008Q4,2008
+2008-06-01 11:00:00,2798,Weekday,LBCC Pass,2008-06,2008,Loop Original,School Pass,2008Q4,2008
+2008-07-01 11:00:00,1587,Weekday,LBCC Pass,2008-07,2008,Loop Original,School Pass,2009Q1,2009
+2008-08-01 11:00:00,1146,Weekday,LBCC Pass,2008-08,2008,Loop Original,School Pass,2009Q1,2009
+2008-09-01 11:00:00,1259,Weekday,LBCC Pass,2008-09,2008,Loop Original,School Pass,2009Q1,2009
+2008-10-01 11:00:00,7050,Weekday,LBCC Pass,2008-10,2008,Loop Original,School Pass,2009Q2,2009
+2008-11-01 11:00:00,4692,Weekday,LBCC Pass,2008-11,2008,Loop Original,School Pass,2009Q2,2009
+2008-12-01 11:00:00,2135,Weekday,LBCC Pass,2008-12,2008,Loop Original,School Pass,2009Q2,2009
+2009-01-01 11:00:00,4949,Weekday,LBCC Pass,2009-01,2009,Loop Original,School Pass,2009Q3,2009
+2009-02-01 11:00:00,4467,Weekday,LBCC Pass,2009-02,2009,Loop Original,School Pass,2009Q3,2009
+2009-03-01 11:00:00,3441,Weekday,LBCC Pass,2009-03,2009,Loop Original,School Pass,2009Q3,2009
+2009-04-01 11:00:00,5121,Weekday,LBCC Pass,2009-04,2009,Loop Original,School Pass,2009Q4,2009
+2009-05-01 11:00:00,4188,Weekday,LBCC Pass,2009-05,2009,Loop Original,School Pass,2009Q4,2009
+2009-06-01 11:00:00,2124,Weekday,LBCC Pass,2009-06,2009,Loop Original,School Pass,2009Q4,2009
+2009-07-01 11:00:00,1134,Weekday,LBCC Pass,2009-07,2009,Loop Original,School Pass,2010Q1,2010
+2009-08-01 11:00:00,573,Weekday,LBCC Pass,2009-08,2009,Loop Original,School Pass,2010Q1,2010
+2009-09-01 11:00:00,1489,Weekday,LBCC Pass,2009-09,2009,Loop Original,School Pass,2010Q1,2010
+2009-10-01 11:00:00,6695,Weekday,LBCC Pass,2009-10,2009,Loop Original,School Pass,2010Q2,2010
+2009-11-01 11:00:00,5376,Weekday,LBCC Pass,2009-11,2009,Loop Original,School Pass,2010Q2,2010
+2009-12-01 11:00:00,1873,Weekday,LBCC Pass,2009-12,2009,Loop Original,School Pass,2010Q2,2010
+2010-01-01 11:00:00,5795,Weekday,LBCC Pass,2010-01,2010,Loop Original,School Pass,2010Q3,2010
+2010-02-01 11:00:00,5150,Weekday,LBCC Pass,2010-02,2010,Loop Original,School Pass,2010Q3,2010
+2010-03-01 11:00:00,4250,Weekday,LBCC Pass,2010-03,2010,Loop Original,School Pass,2010Q3,2010
+2010-04-01 11:00:00,5855,Weekday,LBCC Pass,2010-04,2010,Loop Original,School Pass,2010Q4,2010
+2010-05-01 11:00:00,5443,Weekday,LBCC Pass,2010-05,2010,Loop Original,School Pass,2010Q4,2010
+2010-06-01 11:00:00,2422,Weekday,LBCC Pass,2010-06,2010,Loop Original,School Pass,2010Q4,2010
+2010-07-01 11:00:00,1384,Weekday,LBCC Pass,2010-07,2010,Loop Original,School Pass,2011Q1,2011
+2010-08-01 11:00:00,791,Weekday,LBCC Pass,2010-08,2010,Loop Original,School Pass,2011Q1,2011
+2010-09-01 11:00:00,2087,Weekday,LBCC Pass,2010-09,2010,Loop Original,School Pass,2011Q1,2011
+2010-10-01 11:00:00,6574,Weekday,LBCC Pass,2010-10,2010,Loop Original,School Pass,2011Q2,2011
+2010-11-01 11:00:00,5655,Weekday,LBCC Pass,2010-11,2010,Loop Original,School Pass,2011Q2,2011
+2010-12-01 11:00:00,1746,Weekday,LBCC Pass,2010-12,2010,Loop Original,School Pass,2011Q2,2011
+2011-01-01 11:00:00,6187,Weekday,LBCC Pass,2011-01,2011,Loop Original,School Pass,2011Q3,2011
+2011-02-01 11:00:00,5143,Weekday,LBCC Pass,2011-02,2011,Loop Original,School Pass,2011Q3,2011
+2011-03-01 11:00:00,4675,Weekday,LBCC Pass,2011-03,2011,Loop Original,School Pass,2011Q3,2011
+2011-04-01 11:00:00,7049,Weekday,LBCC Pass,2011-04,2011,Loop Original,School Pass,2011Q4,2011
+2011-05-01 11:00:00,6512,Weekday,LBCC Pass,2011-05,2011,Loop Original,School Pass,2011Q4,2011
+2011-06-01 11:00:00,2632,Weekday,LBCC Pass,2011-06,2011,Loop Original,School Pass,2011Q4,2011
+2011-07-01 11:00:00,1419,Weekday,LBCC Pass,2011-07,2011,Loop Original,School Pass,2012Q1,2012
+2011-08-01 11:00:00,1322,Weekday,LBCC Pass,2011-08,2011,Loop Original,School Pass,2012Q1,2012
+2011-09-01 11:00:00,2279,Weekday,LBCC Pass,2011-09,2011,Loop Original,School Pass,2012Q1,2012
+2011-10-01 11:00:00,7500,Weekday,LBCC Pass,2011-10,2011,Loop Original,School Pass,2012Q2,2012
+2011-11-01 11:00:00,6169,Weekday,LBCC Pass,2011-11,2011,Loop Original,School Pass,2012Q2,2012
+2011-12-01 11:00:00,1521,Weekday,LBCC Pass,2011-12,2011,Loop Original,School Pass,2012Q2,2012
+2012-01-01 11:00:00,5098,Weekday,LBCC Pass,2012-01,2012,Loop Original,School Pass,2012Q3,2012
+2012-02-01 11:00:00,5746,Weekday,LBCC Pass,2012-02,2012,Loop Original,School Pass,2012Q3,2012
+2012-03-01 11:00:00,4426,Weekday,LBCC Pass,2012-03,2012,Loop Original,School Pass,2012Q3,2012
+2012-04-01 11:00:00,6234,Weekday,LBCC Pass,2012-04,2012,Loop Original,School Pass,2012Q4,2012
+2012-05-01 11:00:00,6174,Weekday,LBCC Pass,2012-05,2012,Loop Original,School Pass,2012Q4,2012
+2012-06-01 11:00:00,2703,Weekday,LBCC Pass,2012-06,2012,Loop Original,School Pass,2012Q4,2012
+2012-07-01 11:00:00,1309,Weekday,LBCC Pass,2012-07,2012,Loop Original,School Pass,2013Q1,2013
+2012-08-01 11:00:00,1158,Weekday,LBCC Pass,2012-08,2012,Loop Original,School Pass,2013Q1,2013
+2012-09-01 11:00:00,2169,Weekday,LBCC Pass,2012-09,2012,Loop Original,School Pass,2013Q1,2013
+2012-10-01 11:00:00,7074,Weekday,LBCC Pass,2012-10,2012,Loop Original,School Pass,2013Q2,2013
+2012-11-01 11:00:00,5599,Weekday,LBCC Pass,2012-11,2012,Loop Original,School Pass,2013Q2,2013
+2012-12-01 11:00:00,1114,Weekday,LBCC Pass,2012-12,2012,Loop Original,School Pass,2013Q2,2013
+2013-01-01 11:00:00,5913,Weekday,LBCC Pass,2013-01,2013,Loop Original,School Pass,2013Q3,2013
+2013-02-01 11:00:00,5836,Weekday,LBCC Pass,2013-02,2013,Loop Original,School Pass,2013Q3,2013
+2013-03-01 11:00:00,4036,Weekday,LBCC Pass,2013-03,2013,Loop Original,School Pass,2013Q3,2013
+2013-04-01 11:00:00,6063,Weekday,LBCC Pass,2013-04,2013,Loop Original,School Pass,2013Q4,2013
+2013-05-01 11:00:00,5574,Weekday,LBCC Pass,2013-05,2013,Loop Original,School Pass,2013Q4,2013
+2013-06-01 11:00:00,2265,Weekday,LBCC Pass,2013-06,2013,Loop Original,School Pass,2013Q4,2013
+2013-07-01 11:00:00,1262,Weekday,LBCC Pass,2013-07,2013,Loop Original,School Pass,2014Q1,2014
+2013-08-01 11:00:00,940,Weekday,LBCC Pass,2013-08,2013,Loop Original,School Pass,2014Q1,2014
+2013-09-01 11:00:00,737,Weekday,LBCC Pass,2013-09,2013,Loop Original,School Pass,2014Q1,2014
+2013-10-01 11:00:00,4947,Weekday,LBCC Pass,2013-10,2013,Loop Original,School Pass,2014Q2,2014
+2013-11-01 11:00:00,3719,Weekday,LBCC Pass,2013-11,2013,Loop Original,School Pass,2014Q2,2014
+2013-12-01 11:00:00,1489,Weekday,LBCC Pass,2013-12,2013,Loop Original,School Pass,2014Q2,2014
+2014-01-01 11:00:00,3936,Weekday,LBCC Pass,2014-01,2014,Loop Original,School Pass,2014Q3,2014
+2014-02-01 11:00:00,2983,Weekday,LBCC Pass,2014-02,2014,Loop Original,School Pass,2014Q3,2014
+2014-03-01 11:00:00,2489,Weekday,LBCC Pass,2014-03,2014,Loop Original,School Pass,2014Q3,2014
+2014-04-01 11:00:00,3788,Weekday,LBCC Pass,2014-04,2014,Loop Original,School Pass,2014Q4,2014
+2014-05-01 11:00:00,3549,Weekday,LBCC Pass,2014-05,2014,Loop Original,School Pass,2014Q4,2014
+2014-06-01 11:00:00,2046,Weekday,LBCC Pass,2014-06,2014,Loop Original,School Pass,2014Q4,2014
+2014-07-01 11:00:00,1244,Weekday,LBCC Pass,2014-07,2014,Loop Original,School Pass,2015Q1,2015
+2014-08-01 11:00:00,911,Weekday,LBCC Pass,2014-08,2014,Loop Original,School Pass,2015Q1,2015
+2014-09-01 11:00:00,1588,Weekday,LBCC Pass,2014-09,2014,Loop Original,School Pass,2015Q1,2015
+2014-10-01 11:00:00,7217,Weekday,LBCC Pass,2014-10,2014,Loop Original,School Pass,2015Q2,2015
+2014-11-01 11:00:00,5092,Weekday,LBCC Pass,2014-11,2014,Loop Original,School Pass,2015Q2,2015
+2014-12-01 11:00:00,2547,Weekday,LBCC Pass,2014-12,2014,Loop Original,School Pass,2015Q2,2015
+2015-01-01 11:00:00,5381,Weekday,LBCC Pass,2015-01,2015,Loop Original,School Pass,2015Q3,2015
+2015-02-01 11:00:00,4678,Weekday,LBCC Pass,2015-02,2015,Loop Original,School Pass,2015Q3,2015
+2015-03-01 11:00:00,3613,Weekday,LBCC Pass,2015-03,2015,Loop Original,School Pass,2015Q3,2015
+2015-04-01 11:00:00,4973,Weekday,LBCC Pass,2015-04,2015,Loop Original,School Pass,2015Q4,2015
+2015-05-01 11:00:00,2946,Weekday,LBCC Pass,2015-05,2015,Loop Original,School Pass,2015Q4,2015
+2015-06-01 11:00:00,1547,Weekday,LBCC Pass,2015-06,2015,Loop Original,School Pass,2015Q4,2015
+2015-07-01 11:00:00,821,Weekday,LBCC Pass,2015-07,2015,Loop Original,School Pass,2016Q1,2016
+2015-08-01 11:00:00,1008,Weekday,LBCC Pass,2015-08,2015,Loop Original,School Pass,2016Q1,2016
+2015-09-01 11:00:00,1133,Weekday,LBCC Pass,2015-09,2015,Loop Original,School Pass,2016Q1,2016
+2015-10-01 11:00:00,5789,Weekday,LBCC Pass,2015-10,2015,Loop Original,School Pass,2016Q2,2016
+2015-11-01 11:00:00,2945,Weekday,LBCC Pass,2015-11,2015,Loop Original,School Pass,2016Q2,2016
+2015-12-01 11:00:00,1297,Weekday,LBCC Pass,2015-12,2015,Loop Original,School Pass,2016Q2,2016
+2016-01-01 11:00:00,4276,Weekday,LBCC Pass,2016-01,2016,Loop Original,School Pass,2016Q3,2016
+2016-02-01 11:00:00,3043,Weekday,LBCC Pass,2016-02,2016,Loop Original,School Pass,2016Q3,2016
+2016-03-01 11:00:00,3448,Weekday,LBCC Pass,2016-03,2016,Loop Original,School Pass,2016Q3,2016
+2016-04-01 11:00:00,4348,Weekday,LBCC Pass,2016-04,2016,Loop Original,School Pass,2016Q4,2016
+2016-05-01 11:00:00,2902,Weekday,LBCC Pass,2016-05,2016,Loop Original,School Pass,2016Q4,2016
+2016-06-01 11:00:00,1104,Weekday,LBCC Pass,2016-06,2016,Loop Original,School Pass,2016Q4,2016
+2016-07-01 11:00:00,619,Weekday,LBCC Pass,2016-07,2016,Loop Original,School Pass,2017Q1,2017
+2016-08-01 11:00:00,577,Weekday,LBCC Pass,2016-08,2016,Loop Original,School Pass,2017Q1,2017
+2016-09-01 11:00:00,1542,Weekday,LBCC Pass,2016-09,2016,Loop Original,School Pass,2017Q1,2017
+2016-10-01 11:00:00,3950,Weekday,LBCC Pass,2016-10,2016,Loop Original,School Pass,2017Q2,2017
+2016-11-01 11:00:00,3356,Weekday,LBCC Pass,2016-11,2016,Loop Original,School Pass,2017Q2,2017
+2016-12-01 11:00:00,1076,Weekday,LBCC Pass,2016-12,2016,Loop Original,School Pass,2017Q2,2017
+2017-01-01 11:00:00,2883,Weekday,LBCC Pass,2017-01,2017,Loop Original,School Pass,2017Q3,2017
+2017-02-01 11:00:00,4164,Weekday,LBCC Pass,2017-02,2017,Loop Original,School Pass,2017Q3,2017
+2017-03-01 11:00:00,2379,Weekday,LBCC Pass,2017-03,2017,Loop Original,School Pass,2017Q3,2017
+2017-04-01 11:00:00,3037,Weekday,LBCC Pass,2017-04,2017,Loop Original,School Pass,2017Q4,2017
+2017-05-01 11:00:00,3290,Weekday,LBCC Pass,2017-05,2017,Loop Original,School Pass,2017Q4,2017
+2017-06-01 11:00:00,1586,Weekday,LBCC Pass,2017-06,2017,Loop Original,School Pass,2017Q4,2017
+2017-07-01 11:00:00,684,Weekday,LBCC Pass,2017-07,2017,Loop Original,School Pass,2018Q1,2018
+2017-08-01 11:00:00,591,Weekday,LBCC Pass,2017-08,2017,Loop Original,School Pass,2018Q1,2018
+2017-09-01 11:00:00,1297,Weekday,LBCC Pass,2017-09,2017,Loop Original,School Pass,2018Q1,2018
+2017-10-01 11:00:00,3991,Weekday,LBCC Pass,2017-10,2017,Loop Original,School Pass,2018Q2,2018
+2017-11-01 11:00:00,3120,Weekday,LBCC Pass,2017-11,2017,Loop Original,School Pass,2018Q2,2018
+2017-12-01 11:00:00,1962,Weekday,LBCC Pass,2017-12,2017,Loop Original,School Pass,2018Q2,2018
+2018-01-01 11:00:00,3030,Weekday,LBCC Pass,2018-01,2018,Loop Original,School Pass,2018Q3,2018
+2018-02-01 11:00:00,3103,Weekday,LBCC Pass,2018-02,2018,Loop Original,School Pass,2018Q3,2018
+2018-03-01 11:00:00,2464,Weekday,LBCC Pass,2018-03,2018,Loop Original,School Pass,2018Q3,2018
+2018-04-01 11:00:00,3573,Weekday,LBCC Pass,2018-04,2018,Loop Original,School Pass,2018Q4,2018
+2018-05-01 11:00:00,3465,Weekday,LBCC Pass,2018-05,2018,Loop Original,School Pass,2018Q4,2018
+2018-06-01 11:00:00,1314,Weekday,LBCC Pass,2018-06,2018,Loop Original,School Pass,2018Q4,2018
+2018-07-01 11:00:00,912,Weekday,LBCC Pass,2018-07,2018,Loop Original,School Pass,2019Q1,2019
+2018-08-01 11:00:00,713,Weekday,LBCC Pass,2018-08,2018,Loop Original,School Pass,2019Q1,2019
+2018-09-01 11:00:00,1384,Weekday,LBCC Pass,2018-09,2018,Loop Original,School Pass,2019Q1,2019
+2018-10-01 11:00:00,4148,Weekday,LBCC Pass,2018-10,2018,Loop Original,School Pass,2019Q2,2019
+2018-11-01 11:00:00,2803,Weekday,LBCC Pass,2018-11,2018,Loop Original,School Pass,2019Q2,2019
+2018-12-01 11:00:00,663,Weekday,LBCC Pass,2018-12,2018,Loop Original,School Pass,2019Q2,2019
+2019-01-01 11:00:00,2931,Weekday,LBCC Pass,2019-01,2019,Loop Original,School Pass,2019Q3,2019
+2019-02-01 11:00:00,2288,Weekday,LBCC Pass,2019-02,2019,Loop Original,School Pass,2019Q3,2019
+2019-03-01 11:00:00,1974,Weekday,LBCC Pass,2019-03,2019,Loop Original,School Pass,2019Q3,2019
+2019-04-01 11:00:00,2779,Weekday,LBCC Pass,2019-04,2019,Loop Original,School Pass,2019Q4,2019
+2019-05-01 11:00:00,2856,Weekday,LBCC Pass,2019-05,2019,Loop Original,School Pass,2019Q4,2019
+2019-06-01 11:00:00,1100,Weekday,LBCC Pass,2019-06,2019,Loop Original,School Pass,2019Q4,2019
+2019-07-01 11:00:00,599,Weekday,LBCC Pass,2019-07,2019,Loop Original,School Pass,2020Q1,2020
+2019-08-01 11:00:00,458,Weekday,LBCC Pass,2019-08,2019,Loop Original,School Pass,2020Q1,2020
+2019-09-01 11:00:00,813,Weekday,LBCC Pass,2019-09,2019,Loop Original,School Pass,2020Q1,2020
+2019-10-01 11:00:00,3831,Weekday,LBCC Pass,2019-10,2019,Loop Original,School Pass,2020Q2,2020
+2019-11-01 11:00:00,2966,Weekday,LBCC Pass,2019-11,2019,Loop Original,School Pass,2020Q2,2020
+2019-12-01 11:00:00,1329,Weekday,LBCC Pass,2019-12,2019,Loop Original,School Pass,2020Q2,2020
+2020-01-01 11:00:00,3134,Weekday,LBCC Pass,2020-01,2020,Loop Original,School Pass,2020Q3,2020
+2020-02-01 11:00:00,3065,Weekday,LBCC Pass,2020-02,2020,Loop Original,School Pass,2020Q3,2020
+2020-03-01 11:00:00,1610,Weekday,LBCC Pass,2020-03,2020,Loop Original,School Pass,2020Q3,2020
+2004-07-01 13:00:00,153,Weekday,OSU Pass,2004-07,2004,Loop Original,School Pass,2005Q1,2005
+2004-08-01 13:00:00,564,Weekday,OSU Pass,2004-08,2004,Loop Original,School Pass,2005Q1,2005
+2004-09-01 13:00:00,532,Weekday,OSU Pass,2004-09,2004,Loop Original,School Pass,2005Q1,2005
+2004-10-01 13:00:00,1068,Weekday,OSU Pass,2004-10,2004,Loop Original,School Pass,2005Q2,2005
+2004-11-01 13:00:00,1073,Weekday,OSU Pass,2004-11,2004,Loop Original,School Pass,2005Q2,2005
+2004-12-01 13:00:00,488,Weekday,OSU Pass,2004-12,2004,Loop Original,School Pass,2005Q2,2005
+2005-01-01 13:00:00,1068,Weekday,OSU Pass,2005-01,2005,Loop Original,School Pass,2005Q3,2005
+2005-02-01 13:00:00,975,Weekday,OSU Pass,2005-02,2005,Loop Original,School Pass,2005Q3,2005
+2005-03-01 13:00:00,832,Weekday,OSU Pass,2005-03,2005,Loop Original,School Pass,2005Q3,2005
+2005-04-01 13:00:00,1064,Weekday,OSU Pass,2005-04,2005,Loop Original,School Pass,2005Q4,2005
+2005-05-01 13:00:00,1029,Weekday,OSU Pass,2005-05,2005,Loop Original,School Pass,2005Q4,2005
+2005-06-01 13:00:00,661,Weekday,OSU Pass,2005-06,2005,Loop Original,School Pass,2005Q4,2005
+2005-07-01 13:00:00,467,Weekday,OSU Pass,2005-07,2005,Loop Original,School Pass,2006Q1,2006
+2005-08-01 13:00:00,590,Weekday,OSU Pass,2005-08,2005,Loop Original,School Pass,2006Q1,2006
+2005-09-01 13:00:00,1007,Weekday,OSU Pass,2005-09,2005,Loop Original,School Pass,2006Q1,2006
+2005-10-01 13:00:00,1866,Weekday,OSU Pass,2005-10,2005,Loop Original,School Pass,2006Q2,2006
+2005-11-01 13:00:00,1648,Weekday,OSU Pass,2005-11,2005,Loop Original,School Pass,2006Q2,2006
+2005-12-01 13:00:00,730,Weekday,OSU Pass,2005-12,2005,Loop Original,School Pass,2006Q2,2006
+2006-01-01 13:00:00,2254,Weekday,OSU Pass,2006-01,2006,Loop Original,School Pass,2006Q3,2006
+2006-02-01 13:00:00,1615,Weekday,OSU Pass,2006-02,2006,Loop Original,School Pass,2006Q3,2006
+2006-03-01 13:00:00,1230,Weekday,OSU Pass,2006-03,2006,Loop Original,School Pass,2006Q3,2006
+2006-04-01 13:00:00,1577,Weekday,OSU Pass,2006-04,2006,Loop Original,School Pass,2006Q4,2006
+2006-05-01 13:00:00,1822,Weekday,OSU Pass,2006-05,2006,Loop Original,School Pass,2006Q4,2006
+2006-06-01 13:00:00,1102,Weekday,OSU Pass,2006-06,2006,Loop Original,School Pass,2006Q4,2006
+2006-07-01 13:00:00,1126,Weekday,OSU Pass,2006-07,2006,Loop Original,School Pass,2007Q1,2007
+2006-08-01 13:00:00,854,Weekday,OSU Pass,2006-08,2006,Loop Original,School Pass,2007Q1,2007
+2006-09-01 13:00:00,1171,Weekday,OSU Pass,2006-09,2006,Loop Original,School Pass,2007Q1,2007
+2006-10-01 13:00:00,2278,Weekday,OSU Pass,2006-10,2006,Loop Original,School Pass,2007Q2,2007
+2006-11-01 13:00:00,1870,Weekday,OSU Pass,2006-11,2006,Loop Original,School Pass,2007Q2,2007
+2006-12-01 13:00:00,705,Weekday,OSU Pass,2006-12,2006,Loop Original,School Pass,2007Q2,2007
+2007-01-01 13:00:00,1607,Weekday,OSU Pass,2007-01,2007,Loop Original,School Pass,2007Q3,2007
+2007-02-01 13:00:00,1623,Weekday,OSU Pass,2007-02,2007,Loop Original,School Pass,2007Q3,2007
+2007-03-01 13:00:00,1320,Weekday,OSU Pass,2007-03,2007,Loop Original,School Pass,2007Q3,2007
+2007-04-01 13:00:00,1885,Weekday,OSU Pass,2007-04,2007,Loop Original,School Pass,2007Q4,2007
+2007-05-01 13:00:00,2045,Weekday,OSU Pass,2007-05,2007,Loop Original,School Pass,2007Q4,2007
+2007-06-01 13:00:00,1168,Weekday,OSU Pass,2007-06,2007,Loop Original,School Pass,2007Q4,2007
+2007-07-01 13:00:00,849,Weekday,OSU Pass,2007-07,2007,Loop Original,School Pass,2008Q1,2008
+2007-08-01 13:00:00,869,Weekday,OSU Pass,2007-08,2007,Loop Original,School Pass,2008Q1,2008
+2007-09-01 13:00:00,1089,Weekday,OSU Pass,2007-09,2007,Loop Original,School Pass,2008Q1,2008
+2007-10-01 13:00:00,2308,Weekday,OSU Pass,2007-10,2007,Loop Original,School Pass,2008Q2,2008
+2007-11-01 13:00:00,1863,Weekday,OSU Pass,2007-11,2007,Loop Original,School Pass,2008Q2,2008
+2007-12-01 13:00:00,719,Weekday,OSU Pass,2007-12,2007,Loop Original,School Pass,2008Q2,2008
+2008-01-01 13:00:00,2175,Weekday,OSU Pass,2008-01,2008,Loop Original,School Pass,2008Q3,2008
+2008-02-01 13:00:00,2092,Weekday,OSU Pass,2008-02,2008,Loop Original,School Pass,2008Q3,2008
+2008-03-01 13:00:00,1546,Weekday,OSU Pass,2008-03,2008,Loop Original,School Pass,2008Q3,2008
+2008-04-01 13:00:00,2227,Weekday,OSU Pass,2008-04,2008,Loop Original,School Pass,2008Q4,2008
+2008-05-01 13:00:00,2238,Weekday,OSU Pass,2008-05,2008,Loop Original,School Pass,2008Q4,2008
+2008-06-01 13:00:00,1621,Weekday,OSU Pass,2008-06,2008,Loop Original,School Pass,2008Q4,2008
+2008-07-01 13:00:00,1786,Weekday,OSU Pass,2008-07,2008,Loop Original,School Pass,2009Q1,2009
+2008-08-01 13:00:00,1262,Weekday,OSU Pass,2008-08,2008,Loop Original,School Pass,2009Q1,2009
+2008-09-01 13:00:00,1217,Weekday,OSU Pass,2008-09,2008,Loop Original,School Pass,2009Q1,2009
+2008-10-01 13:00:00,3962,Weekday,OSU Pass,2008-10,2008,Loop Original,School Pass,2009Q2,2009
+2008-11-01 13:00:00,2629,Weekday,OSU Pass,2008-11,2008,Loop Original,School Pass,2009Q2,2009
+2008-12-01 13:00:00,1379,Weekday,OSU Pass,2008-12,2008,Loop Original,School Pass,2009Q2,2009
+2009-01-01 13:00:00,3345,Weekday,OSU Pass,2009-01,2009,Loop Original,School Pass,2009Q3,2009
+2009-02-01 13:00:00,3108,Weekday,OSU Pass,2009-02,2009,Loop Original,School Pass,2009Q3,2009
+2009-03-01 13:00:00,2185,Weekday,OSU Pass,2009-03,2009,Loop Original,School Pass,2009Q3,2009
+2009-04-01 13:00:00,3355,Weekday,OSU Pass,2009-04,2009,Loop Original,School Pass,2009Q4,2009
+2009-05-01 13:00:00,2842,Weekday,OSU Pass,2009-05,2009,Loop Original,School Pass,2009Q4,2009
+2009-06-01 13:00:00,1654,Weekday,OSU Pass,2009-06,2009,Loop Original,School Pass,2009Q4,2009
+2009-07-01 13:00:00,1001,Weekday,OSU Pass,2009-07,2009,Loop Original,School Pass,2010Q1,2010
+2009-08-01 13:00:00,662,Weekday,OSU Pass,2009-08,2009,Loop Original,School Pass,2010Q1,2010
+2009-09-01 13:00:00,1191,Weekday,OSU Pass,2009-09,2009,Loop Original,School Pass,2010Q1,2010
+2009-10-01 13:00:00,3841,Weekday,OSU Pass,2009-10,2009,Loop Original,School Pass,2010Q2,2010
+2009-11-01 13:00:00,2720,Weekday,OSU Pass,2009-11,2009,Loop Original,School Pass,2010Q2,2010
+2009-12-01 13:00:00,1259,Weekday,OSU Pass,2009-12,2009,Loop Original,School Pass,2010Q2,2010
+2010-01-01 13:00:00,3418,Weekday,OSU Pass,2010-01,2010,Loop Original,School Pass,2010Q3,2010
+2010-02-01 13:00:00,3046,Weekday,OSU Pass,2010-02,2010,Loop Original,School Pass,2010Q3,2010
+2010-03-01 13:00:00,2553,Weekday,OSU Pass,2010-03,2010,Loop Original,School Pass,2010Q3,2010
+2010-04-01 13:00:00,3476,Weekday,OSU Pass,2010-04,2010,Loop Original,School Pass,2010Q4,2010
+2010-05-01 13:00:00,2942,Weekday,OSU Pass,2010-05,2010,Loop Original,School Pass,2010Q4,2010
+2010-06-01 13:00:00,1335,Weekday,OSU Pass,2010-06,2010,Loop Original,School Pass,2010Q4,2010
+2010-07-01 13:00:00,837,Weekday,OSU Pass,2010-07,2010,Loop Original,School Pass,2011Q1,2011
+2010-08-01 13:00:00,849,Weekday,OSU Pass,2010-08,2010,Loop Original,School Pass,2011Q1,2011
+2010-09-01 13:00:00,1685,Weekday,OSU Pass,2010-09,2010,Loop Original,School Pass,2011Q1,2011
+2010-10-01 13:00:00,4295,Weekday,OSU Pass,2010-10,2010,Loop Original,School Pass,2011Q2,2011
+2010-11-01 13:00:00,3971,Weekday,OSU Pass,2010-11,2010,Loop Original,School Pass,2011Q2,2011
+2010-12-01 13:00:00,1587,Weekday,OSU Pass,2010-12,2010,Loop Original,School Pass,2011Q2,2011
+2011-01-01 13:00:00,4099,Weekday,OSU Pass,2011-01,2011,Loop Original,School Pass,2011Q3,2011
+2011-02-01 13:00:00,3499,Weekday,OSU Pass,2011-02,2011,Loop Original,School Pass,2011Q3,2011
+2011-03-01 13:00:00,2986,Weekday,OSU Pass,2011-03,2011,Loop Original,School Pass,2011Q3,2011
+2011-04-01 13:00:00,4191,Weekday,OSU Pass,2011-04,2011,Loop Original,School Pass,2011Q4,2011
+2011-05-01 13:00:00,3529,Weekday,OSU Pass,2011-05,2011,Loop Original,School Pass,2011Q4,2011
+2011-06-01 13:00:00,1931,Weekday,OSU Pass,2011-06,2011,Loop Original,School Pass,2011Q4,2011
+2011-07-01 13:00:00,1301,Weekday,OSU Pass,2011-07,2011,Loop Original,School Pass,2012Q1,2012
+2011-08-01 13:00:00,1390,Weekday,OSU Pass,2011-08,2011,Loop Original,School Pass,2012Q1,2012
+2011-09-01 13:00:00,2250,Weekday,OSU Pass,2011-09,2011,Loop Original,School Pass,2012Q1,2012
+2011-10-01 13:00:00,5071,Weekday,OSU Pass,2011-10,2011,Loop Original,School Pass,2012Q2,2012
+2011-11-01 13:00:00,4237,Weekday,OSU Pass,2011-11,2011,Loop Original,School Pass,2012Q2,2012
+2011-12-01 13:00:00,1297,Weekday,OSU Pass,2011-12,2011,Loop Original,School Pass,2012Q2,2012
+2012-01-01 13:00:00,3749,Weekday,OSU Pass,2012-01,2012,Loop Original,School Pass,2012Q3,2012
+2012-02-01 13:00:00,4123,Weekday,OSU Pass,2012-02,2012,Loop Original,School Pass,2012Q3,2012
+2012-03-01 13:00:00,3080,Weekday,OSU Pass,2012-03,2012,Loop Original,School Pass,2012Q3,2012
+2012-04-01 13:00:00,4943,Weekday,OSU Pass,2012-04,2012,Loop Original,School Pass,2012Q4,2012
+2012-05-01 13:00:00,4763,Weekday,OSU Pass,2012-05,2012,Loop Original,School Pass,2012Q4,2012
+2012-06-01 13:00:00,2440,Weekday,OSU Pass,2012-06,2012,Loop Original,School Pass,2012Q4,2012
+2012-07-01 13:00:00,1652,Weekday,OSU Pass,2012-07,2012,Loop Original,School Pass,2013Q1,2013
+2012-08-01 13:00:00,1582,Weekday,OSU Pass,2012-08,2012,Loop Original,School Pass,2013Q1,2013
+2012-09-01 13:00:00,2140,Weekday,OSU Pass,2012-09,2012,Loop Original,School Pass,2013Q1,2013
+2012-10-01 13:00:00,5717,Weekday,OSU Pass,2012-10,2012,Loop Original,School Pass,2013Q2,2013
+2012-11-01 13:00:00,4020,Weekday,OSU Pass,2012-11,2012,Loop Original,School Pass,2013Q2,2013
+2012-12-01 13:00:00,1239,Weekday,OSU Pass,2012-12,2012,Loop Original,School Pass,2013Q2,2013
+2013-01-01 13:00:00,4711,Weekday,OSU Pass,2013-01,2013,Loop Original,School Pass,2013Q3,2013
+2013-02-01 13:00:00,4619,Weekday,OSU Pass,2013-02,2013,Loop Original,School Pass,2013Q3,2013
+2013-03-01 13:00:00,3111,Weekday,OSU Pass,2013-03,2013,Loop Original,School Pass,2013Q3,2013
+2013-04-01 13:00:00,4992,Weekday,OSU Pass,2013-04,2013,Loop Original,School Pass,2013Q4,2013
+2013-05-01 13:00:00,4443,Weekday,OSU Pass,2013-05,2013,Loop Original,School Pass,2013Q4,2013
+2013-06-01 13:00:00,2036,Weekday,OSU Pass,2013-06,2013,Loop Original,School Pass,2013Q4,2013
+2013-07-01 13:00:00,1783,Weekday,OSU Pass,2013-07,2013,Loop Original,School Pass,2014Q1,2014
+2013-08-01 13:00:00,1439,Weekday,OSU Pass,2013-08,2013,Loop Original,School Pass,2014Q1,2014
+2013-09-01 13:00:00,1242,Weekday,OSU Pass,2013-09,2013,Loop Original,School Pass,2014Q1,2014
+2013-10-01 13:00:00,6213,Weekday,OSU Pass,2013-10,2013,Loop Original,School Pass,2014Q2,2014
+2013-11-01 13:00:00,4448,Weekday,OSU Pass,2013-11,2013,Loop Original,School Pass,2014Q2,2014
+2013-12-01 13:00:00,2035,Weekday,OSU Pass,2013-12,2013,Loop Original,School Pass,2014Q2,2014
+2014-01-01 13:00:00,5084,Weekday,OSU Pass,2014-01,2014,Loop Original,School Pass,2014Q3,2014
+2014-02-01 13:00:00,3949,Weekday,OSU Pass,2014-02,2014,Loop Original,School Pass,2014Q3,2014
+2014-03-01 13:00:00,3206,Weekday,OSU Pass,2014-03,2014,Loop Original,School Pass,2014Q3,2014
+2014-04-01 13:00:00,5005,Weekday,OSU Pass,2014-04,2014,Loop Original,School Pass,2014Q4,2014
+2014-05-01 13:00:00,4362,Weekday,OSU Pass,2014-05,2014,Loop Original,School Pass,2014Q4,2014
+2014-06-01 13:00:00,2588,Weekday,OSU Pass,2014-06,2014,Loop Original,School Pass,2014Q4,2014
+2014-07-01 13:00:00,1826,Weekday,OSU Pass,2014-07,2014,Loop Original,School Pass,2015Q1,2015
+2014-08-01 13:00:00,1337,Weekday,OSU Pass,2014-08,2014,Loop Original,School Pass,2015Q1,2015
+2014-09-01 13:00:00,2033,Weekday,OSU Pass,2014-09,2014,Loop Original,School Pass,2015Q1,2015
+2014-10-01 13:00:00,7959,Weekday,OSU Pass,2014-10,2014,Loop Original,School Pass,2015Q2,2015
+2014-11-01 13:00:00,5190,Weekday,OSU Pass,2014-11,2014,Loop Original,School Pass,2015Q2,2015
+2014-12-01 13:00:00,2770,Weekday,OSU Pass,2014-12,2014,Loop Original,School Pass,2015Q2,2015
+2015-01-01 13:00:00,5658,Weekday,OSU Pass,2015-01,2015,Loop Original,School Pass,2015Q3,2015
+2015-02-01 13:00:00,5223,Weekday,OSU Pass,2015-02,2015,Loop Original,School Pass,2015Q3,2015
+2015-03-01 13:00:00,4235,Weekday,OSU Pass,2015-03,2015,Loop Original,School Pass,2015Q3,2015
+2015-04-01 13:00:00,6259,Weekday,OSU Pass,2015-04,2015,Loop Original,School Pass,2015Q4,2015
+2015-05-01 13:00:00,4647,Weekday,OSU Pass,2015-05,2015,Loop Original,School Pass,2015Q4,2015
+2015-06-01 13:00:00,2442,Weekday,OSU Pass,2015-06,2015,Loop Original,School Pass,2015Q4,2015
+2015-07-01 13:00:00,1366,Weekday,OSU Pass,2015-07,2015,Loop Original,School Pass,2016Q1,2016
+2015-08-01 13:00:00,1202,Weekday,OSU Pass,2015-08,2015,Loop Original,School Pass,2016Q1,2016
+2015-09-01 13:00:00,1875,Weekday,OSU Pass,2015-09,2015,Loop Original,School Pass,2016Q1,2016
+2015-10-01 13:00:00,6872,Weekday,OSU Pass,2015-10,2015,Loop Original,School Pass,2016Q2,2016
+2015-11-01 13:00:00,4381,Weekday,OSU Pass,2015-11,2015,Loop Original,School Pass,2016Q2,2016
+2015-12-01 13:00:00,1893,Weekday,OSU Pass,2015-12,2015,Loop Original,School Pass,2016Q2,2016
+2016-01-01 13:00:00,5399,Weekday,OSU Pass,2016-01,2016,Loop Original,School Pass,2016Q3,2016
+2016-02-01 13:00:00,4890,Weekday,OSU Pass,2016-02,2016,Loop Original,School Pass,2016Q3,2016
+2016-03-01 13:00:00,4345,Weekday,OSU Pass,2016-03,2016,Loop Original,School Pass,2016Q3,2016
+2016-04-01 13:00:00,4864,Weekday,OSU Pass,2016-04,2016,Loop Original,School Pass,2016Q4,2016
+2016-05-01 13:00:00,4038,Weekday,OSU Pass,2016-05,2016,Loop Original,School Pass,2016Q4,2016
+2016-06-01 13:00:00,1636,Weekday,OSU Pass,2016-06,2016,Loop Original,School Pass,2016Q4,2016
+2016-07-01 13:00:00,970,Weekday,OSU Pass,2016-07,2016,Loop Original,School Pass,2017Q1,2017
+2016-08-01 13:00:00,988,Weekday,OSU Pass,2016-08,2016,Loop Original,School Pass,2017Q1,2017
+2016-09-01 13:00:00,2428,Weekday,OSU Pass,2016-09,2016,Loop Original,School Pass,2017Q1,2017
+2016-10-01 13:00:00,5370,Weekday,OSU Pass,2016-10,2016,Loop Original,School Pass,2017Q2,2017
+2016-11-01 13:00:00,4435,Weekday,OSU Pass,2016-11,2016,Loop Original,School Pass,2017Q2,2017
+2016-12-01 13:00:00,1343,Weekday,OSU Pass,2016-12,2016,Loop Original,School Pass,2017Q2,2017
+2017-01-01 13:00:00,3934,Weekday,OSU Pass,2017-01,2017,Loop Original,School Pass,2017Q3,2017
+2017-02-01 13:00:00,4991,Weekday,OSU Pass,2017-02,2017,Loop Original,School Pass,2017Q3,2017
+2017-03-01 13:00:00,3505,Weekday,OSU Pass,2017-03,2017,Loop Original,School Pass,2017Q3,2017
+2017-04-01 13:00:00,4476,Weekday,OSU Pass,2017-04,2017,Loop Original,School Pass,2017Q4,2017
+2017-05-01 13:00:00,4540,Weekday,OSU Pass,2017-05,2017,Loop Original,School Pass,2017Q4,2017
+2017-06-01 13:00:00,2107,Weekday,OSU Pass,2017-06,2017,Loop Original,School Pass,2017Q4,2017
+2017-07-01 13:00:00,873,Weekday,OSU Pass,2017-07,2017,Loop Original,School Pass,2018Q1,2018
+2017-08-01 13:00:00,880,Weekday,OSU Pass,2017-08,2017,Loop Original,School Pass,2018Q1,2018
+2017-09-01 13:00:00,2236,Weekday,OSU Pass,2017-09,2017,Loop Original,School Pass,2018Q1,2018
+2017-10-01 13:00:00,5802,Weekday,OSU Pass,2017-10,2017,Loop Original,School Pass,2018Q2,2018
+2017-11-01 13:00:00,4644,Weekday,OSU Pass,2017-11,2017,Loop Original,School Pass,2018Q2,2018
+2017-12-01 13:00:00,1372,Weekday,OSU Pass,2017-12,2017,Loop Original,School Pass,2018Q2,2018
+2018-01-01 13:00:00,4612,Weekday,OSU Pass,2018-01,2018,Loop Original,School Pass,2018Q3,2018
+2018-02-01 13:00:00,4379,Weekday,OSU Pass,2018-02,2018,Loop Original,School Pass,2018Q3,2018
+2018-03-01 13:00:00,3318,Weekday,OSU Pass,2018-03,2018,Loop Original,School Pass,2018Q3,2018
+2018-04-01 13:00:00,4094,Weekday,OSU Pass,2018-04,2018,Loop Original,School Pass,2018Q4,2018
+2018-05-01 13:00:00,3984,Weekday,OSU Pass,2018-05,2018,Loop Original,School Pass,2018Q4,2018
+2018-06-01 13:00:00,1881,Weekday,OSU Pass,2018-06,2018,Loop Original,School Pass,2018Q4,2018
+2018-07-01 13:00:00,1017,Weekday,OSU Pass,2018-07,2018,Loop Original,School Pass,2019Q1,2019
+2018-08-01 13:00:00,909,Weekday,OSU Pass,2018-08,2018,Loop Original,School Pass,2019Q1,2019
+2018-09-01 13:00:00,2232,Weekday,OSU Pass,2018-09,2018,Loop Original,School Pass,2019Q1,2019
+2018-10-01 13:00:00,6142,Weekday,OSU Pass,2018-10,2018,Loop Original,School Pass,2019Q2,2019
+2018-11-01 13:00:00,4507,Weekday,OSU Pass,2018-11,2018,Loop Original,School Pass,2019Q2,2019
+2018-12-01 13:00:00,906,Weekday,OSU Pass,2018-12,2018,Loop Original,School Pass,2019Q2,2019
+2019-01-01 13:00:00,4199,Weekday,OSU Pass,2019-01,2019,Loop Original,School Pass,2019Q3,2019
+2019-02-01 13:00:00,3623,Weekday,OSU Pass,2019-02,2019,Loop Original,School Pass,2019Q3,2019
+2019-03-01 13:00:00,2734,Weekday,OSU Pass,2019-03,2019,Loop Original,School Pass,2019Q3,2019
+2019-04-01 13:00:00,3672,Weekday,OSU Pass,2019-04,2019,Loop Original,School Pass,2019Q4,2019
+2019-05-01 13:00:00,3965,Weekday,OSU Pass,2019-05,2019,Loop Original,School Pass,2019Q4,2019
+2019-06-01 13:00:00,1561,Weekday,OSU Pass,2019-06,2019,Loop Original,School Pass,2019Q4,2019
+2019-07-01 13:00:00,810,Weekday,OSU Pass,2019-07,2019,Loop Original,School Pass,2020Q1,2020
+2019-08-01 13:00:00,750,Weekday,OSU Pass,2019-08,2019,Loop Original,School Pass,2020Q1,2020
+2019-09-01 13:00:00,1212,Weekday,OSU Pass,2019-09,2019,Loop Original,School Pass,2020Q1,2020
+2019-10-01 13:00:00,6016,Weekday,OSU Pass,2019-10,2019,Loop Original,School Pass,2020Q2,2020
+2019-11-01 13:00:00,4503,Weekday,OSU Pass,2019-11,2019,Loop Original,School Pass,2020Q2,2020
+2019-12-01 13:00:00,2004,Weekday,OSU Pass,2019-12,2019,Loop Original,School Pass,2020Q2,2020
+2020-01-01 13:00:00,4411,Weekday,OSU Pass,2020-01,2020,Loop Original,School Pass,2020Q3,2020
+2020-02-01 13:00:00,4144,Weekday,OSU Pass,2020-02,2020,Loop Original,School Pass,2020Q3,2020
+2020-03-01 13:00:00,2096,Weekday,OSU Pass,2020-03,2020,Loop Original,School Pass,2020Q3,2020
+2002-07-01 14:00:00,336,Weekday,HP Pass,2002-07,2002,Loop Original,Business Pass,2003Q1,2003
+2002-08-01 14:00:00,423,Weekday,HP Pass,2002-08,2002,Loop Original,Business Pass,2003Q1,2003
+2002-09-01 14:00:00,405,Weekday,HP Pass,2002-09,2002,Loop Original,Business Pass,2003Q1,2003
+2002-10-01 14:00:00,467,Weekday,HP Pass,2002-10,2002,Loop Original,Business Pass,2003Q2,2003
+2002-11-01 14:00:00,313,Weekday,HP Pass,2002-11,2002,Loop Original,Business Pass,2003Q2,2003
+2002-12-01 14:00:00,307,Weekday,HP Pass,2002-12,2002,Loop Original,Business Pass,2003Q2,2003
+2003-01-01 14:00:00,476,Weekday,HP Pass,2003-01,2003,Loop Original,Business Pass,2003Q3,2003
+2003-02-01 14:00:00,500,Weekday,HP Pass,2003-02,2003,Loop Original,Business Pass,2003Q3,2003
+2003-03-01 14:00:00,572,Weekday,HP Pass,2003-03,2003,Loop Original,Business Pass,2003Q3,2003
+2003-04-01 14:00:00,494,Weekday,HP Pass,2003-04,2003,Loop Original,Business Pass,2003Q4,2003
+2003-05-01 14:00:00,407,Weekday,HP Pass,2003-05,2003,Loop Original,Business Pass,2003Q4,2003
+2003-06-01 14:00:00,409,Weekday,HP Pass,2003-06,2003,Loop Original,Business Pass,2003Q4,2003
+2003-07-01 14:00:00,501,Weekday,HP Pass,2003-07,2003,Loop Original,Business Pass,2004Q1,2004
+2003-08-01 14:00:00,370,Weekday,HP Pass,2003-08,2003,Loop Original,Business Pass,2004Q1,2004
+2003-09-01 14:00:00,385,Weekday,HP Pass,2003-09,2003,Loop Original,Business Pass,2004Q1,2004
+2003-10-01 14:00:00,412,Weekday,HP Pass,2003-10,2003,Loop Original,Business Pass,2004Q2,2004
+2003-11-01 14:00:00,262,Weekday,HP Pass,2003-11,2003,Loop Original,Business Pass,2004Q2,2004
+2003-12-01 14:00:00,262,Weekday,HP Pass,2003-12,2003,Loop Original,Business Pass,2004Q2,2004
+2004-01-01 14:00:00,363,Weekday,HP Pass,2004-01,2004,Loop Original,Business Pass,2004Q3,2004
+2004-02-01 14:00:00,388,Weekday,HP Pass,2004-02,2004,Loop Original,Business Pass,2004Q3,2004
+2004-03-01 14:00:00,432,Weekday,HP Pass,2004-03,2004,Loop Original,Business Pass,2004Q3,2004
+2004-04-01 14:00:00,477,Weekday,HP Pass,2004-04,2004,Loop Original,Business Pass,2004Q4,2004
+2004-05-01 14:00:00,547,Weekday,HP Pass,2004-05,2004,Loop Original,Business Pass,2004Q4,2004
+2004-06-01 14:00:00,666,Weekday,HP Pass,2004-06,2004,Loop Original,Business Pass,2004Q4,2004
+2004-07-01 14:00:00,540,Weekday,HP Pass,2004-07,2004,Loop Original,Business Pass,2005Q1,2005
+2004-08-01 14:00:00,525,Weekday,HP Pass,2004-08,2004,Loop Original,Business Pass,2005Q1,2005
+2004-09-01 14:00:00,463,Weekday,HP Pass,2004-09,2004,Loop Original,Business Pass,2005Q1,2005
+2004-10-01 14:00:00,551,Weekday,HP Pass,2004-10,2004,Loop Original,Business Pass,2005Q2,2005
+2004-11-01 14:00:00,550,Weekday,HP Pass,2004-11,2004,Loop Original,Business Pass,2005Q2,2005
+2004-12-01 14:00:00,377,Weekday,HP Pass,2004-12,2004,Loop Original,Business Pass,2005Q2,2005
+2005-01-01 14:00:00,529,Weekday,HP Pass,2005-01,2005,Loop Original,Business Pass,2005Q3,2005
+2005-02-01 14:00:00,480,Weekday,HP Pass,2005-02,2005,Loop Original,Business Pass,2005Q3,2005
+2005-03-01 14:00:00,695,Weekday,HP Pass,2005-03,2005,Loop Original,Business Pass,2005Q3,2005
+2005-04-01 14:00:00,707,Weekday,HP Pass,2005-04,2005,Loop Original,Business Pass,2005Q4,2005
+2005-05-01 14:00:00,714,Weekday,HP Pass,2005-05,2005,Loop Original,Business Pass,2005Q4,2005
+2005-06-01 14:00:00,625,Weekday,HP Pass,2005-06,2005,Loop Original,Business Pass,2005Q4,2005
+2005-07-01 14:00:00,551,Weekday,HP Pass,2005-07,2005,Loop Original,Business Pass,2006Q1,2006
+2005-08-01 14:00:00,591,Weekday,HP Pass,2005-08,2005,Loop Original,Business Pass,2006Q1,2006
+2005-09-01 14:00:00,712,Weekday,HP Pass,2005-09,2005,Loop Original,Business Pass,2006Q1,2006
+2005-10-01 14:00:00,708,Weekday,HP Pass,2005-10,2005,Loop Original,Business Pass,2006Q2,2006
+2005-11-01 14:00:00,528,Weekday,HP Pass,2005-11,2005,Loop Original,Business Pass,2006Q2,2006
+2005-12-01 14:00:00,359,Weekday,HP Pass,2005-12,2005,Loop Original,Business Pass,2006Q2,2006
+2006-01-01 14:00:00,570,Weekday,HP Pass,2006-01,2006,Loop Original,Business Pass,2006Q3,2006
+2006-02-01 14:00:00,463,Weekday,HP Pass,2006-02,2006,Loop Original,Business Pass,2006Q3,2006
+2006-03-01 14:00:00,465,Weekday,HP Pass,2006-03,2006,Loop Original,Business Pass,2006Q3,2006
+2006-04-01 14:00:00,437,Weekday,HP Pass,2006-04,2006,Loop Original,Business Pass,2006Q4,2006
+2006-05-01 14:00:00,605,Weekday,HP Pass,2006-05,2006,Loop Original,Business Pass,2006Q4,2006
+2006-06-01 14:00:00,612,Weekday,HP Pass,2006-06,2006,Loop Original,Business Pass,2006Q4,2006
+2006-07-01 14:00:00,580,Weekday,HP Pass,2006-07,2006,Loop Original,Business Pass,2007Q1,2007
+2006-08-01 14:00:00,655,Weekday,HP Pass,2006-08,2006,Loop Original,Business Pass,2007Q1,2007
+2006-09-01 14:00:00,460,Weekday,HP Pass,2006-09,2006,Loop Original,Business Pass,2007Q1,2007
+2006-10-01 14:00:00,524,Weekday,HP Pass,2006-10,2006,Loop Original,Business Pass,2007Q2,2007
+2006-11-01 14:00:00,520,Weekday,HP Pass,2006-11,2006,Loop Original,Business Pass,2007Q2,2007
+2006-12-01 14:00:00,385,Weekday,HP Pass,2006-12,2006,Loop Original,Business Pass,2007Q2,2007
+2007-01-01 14:00:00,526,Weekday,HP Pass,2007-01,2007,Loop Original,Business Pass,2007Q3,2007
+2007-02-01 14:00:00,499,Weekday,HP Pass,2007-02,2007,Loop Original,Business Pass,2007Q3,2007
+2007-03-01 14:00:00,595,Weekday,HP Pass,2007-03,2007,Loop Original,Business Pass,2007Q3,2007
+2007-04-01 14:00:00,577,Weekday,HP Pass,2007-04,2007,Loop Original,Business Pass,2007Q4,2007
+2007-05-01 14:00:00,744,Weekday,HP Pass,2007-05,2007,Loop Original,Business Pass,2007Q4,2007
+2007-06-01 14:00:00,656,Weekday,HP Pass,2007-06,2007,Loop Original,Business Pass,2007Q4,2007
+2007-07-01 14:00:00,627,Weekday,HP Pass,2007-07,2007,Loop Original,Business Pass,2008Q1,2008
+2007-08-01 14:00:00,728,Weekday,HP Pass,2007-08,2007,Loop Original,Business Pass,2008Q1,2008
+2007-09-01 14:00:00,656,Weekday,HP Pass,2007-09,2007,Loop Original,Business Pass,2008Q1,2008
+2007-10-01 14:00:00,666,Weekday,HP Pass,2007-10,2007,Loop Original,Business Pass,2008Q2,2008
+2007-11-01 14:00:00,709,Weekday,HP Pass,2007-11,2007,Loop Original,Business Pass,2008Q2,2008
+2007-12-01 14:00:00,453,Weekday,HP Pass,2007-12,2007,Loop Original,Business Pass,2008Q2,2008
+2008-01-01 14:00:00,700,Weekday,HP Pass,2008-01,2008,Loop Original,Business Pass,2008Q3,2008
+2008-02-01 14:00:00,638,Weekday,HP Pass,2008-02,2008,Loop Original,Business Pass,2008Q3,2008
+2008-03-01 14:00:00,819,Weekday,HP Pass,2008-03,2008,Loop Original,Business Pass,2008Q3,2008
+2008-04-01 14:00:00,852,Weekday,HP Pass,2008-04,2008,Loop Original,Business Pass,2008Q4,2008
+2008-05-01 14:00:00,775,Weekday,HP Pass,2008-05,2008,Loop Original,Business Pass,2008Q4,2008
+2008-06-01 14:00:00,1063,Weekday,HP Pass,2008-06,2008,Loop Original,Business Pass,2008Q4,2008
+2008-07-01 14:00:00,1091,Weekday,HP Pass,2008-07,2008,Loop Original,Business Pass,2009Q1,2009
+2008-08-01 14:00:00,954,Weekday,HP Pass,2008-08,2008,Loop Original,Business Pass,2009Q1,2009
+2008-09-01 14:00:00,949,Weekday,HP Pass,2008-09,2008,Loop Original,Business Pass,2009Q1,2009
+2008-10-01 14:00:00,847,Weekday,HP Pass,2008-10,2008,Loop Original,Business Pass,2009Q2,2009
+2008-11-01 14:00:00,648,Weekday,HP Pass,2008-11,2008,Loop Original,Business Pass,2009Q2,2009
+2008-12-01 14:00:00,473,Weekday,HP Pass,2008-12,2008,Loop Original,Business Pass,2009Q2,2009
+2009-01-01 14:00:00,563,Weekday,HP Pass,2009-01,2009,Loop Original,Business Pass,2009Q3,2009
+2009-02-01 14:00:00,443,Weekday,HP Pass,2009-02,2009,Loop Original,Business Pass,2009Q3,2009
+2009-03-01 14:00:00,448,Weekday,HP Pass,2009-03,2009,Loop Original,Business Pass,2009Q3,2009
+2009-04-01 14:00:00,550,Weekday,HP Pass,2009-04,2009,Loop Original,Business Pass,2009Q4,2009
+2009-05-01 14:00:00,527,Weekday,HP Pass,2009-05,2009,Loop Original,Business Pass,2009Q4,2009
+2009-06-01 14:00:00,645,Weekday,HP Pass,2009-06,2009,Loop Original,Business Pass,2009Q4,2009
+2009-07-01 14:00:00,496,Weekday,HP Pass,2009-07,2009,Loop Original,Business Pass,2010Q1,2010
+2009-08-01 14:00:00,512,Weekday,HP Pass,2009-08,2009,Loop Original,Business Pass,2010Q1,2010
+2009-09-01 14:00:00,536,Weekday,HP Pass,2009-09,2009,Loop Original,Business Pass,2010Q1,2010
+2009-10-01 14:00:00,619,Weekday,HP Pass,2009-10,2009,Loop Original,Business Pass,2010Q2,2010
+2009-11-01 14:00:00,547,Weekday,HP Pass,2009-11,2009,Loop Original,Business Pass,2010Q2,2010
+2009-12-01 14:00:00,313,Weekday,HP Pass,2009-12,2009,Loop Original,Business Pass,2010Q2,2010
+2010-01-01 14:00:00,631,Weekday,HP Pass,2010-01,2010,Loop Original,Business Pass,2010Q3,2010
+2010-02-01 14:00:00,514,Weekday,HP Pass,2010-02,2010,Loop Original,Business Pass,2010Q3,2010
+2010-03-01 14:00:00,617,Weekday,HP Pass,2010-03,2010,Loop Original,Business Pass,2010Q3,2010
+2010-04-01 14:00:00,528,Weekday,HP Pass,2010-04,2010,Loop Original,Business Pass,2010Q4,2010
+2010-05-01 14:00:00,533,Weekday,HP Pass,2010-05,2010,Loop Original,Business Pass,2010Q4,2010
+2010-06-01 14:00:00,490,Weekday,HP Pass,2010-06,2010,Loop Original,Business Pass,2010Q4,2010
+2010-07-01 14:00:00,532,Weekday,HP Pass,2010-07,2010,Loop Original,Business Pass,2011Q1,2011
+2010-08-01 14:00:00,554,Weekday,HP Pass,2010-08,2010,Loop Original,Business Pass,2011Q1,2011
+2010-09-01 14:00:00,598,Weekday,HP Pass,2010-09,2010,Loop Original,Business Pass,2011Q1,2011
+2010-10-01 14:00:00,544,Weekday,HP Pass,2010-10,2010,Loop Original,Business Pass,2011Q2,2011
+2010-11-01 14:00:00,520,Weekday,HP Pass,2010-11,2010,Loop Original,Business Pass,2011Q2,2011
+2010-12-01 14:00:00,401,Weekday,HP Pass,2010-12,2010,Loop Original,Business Pass,2011Q2,2011
+2011-01-01 14:00:00,570,Weekday,HP Pass,2011-01,2011,Loop Original,Business Pass,2011Q3,2011
+2011-02-01 14:00:00,583,Weekday,HP Pass,2011-02,2011,Loop Original,Business Pass,2011Q3,2011
+2011-03-01 14:00:00,800,Weekday,HP Pass,2011-03,2011,Loop Original,Business Pass,2011Q3,2011
+2011-04-01 14:00:00,685,Weekday,HP Pass,2011-04,2011,Loop Original,Business Pass,2011Q4,2011
+2011-05-01 14:00:00,724,Weekday,HP Pass,2011-05,2011,Loop Original,Business Pass,2011Q4,2011
+2011-06-01 14:00:00,848,Weekday,HP Pass,2011-06,2011,Loop Original,Business Pass,2011Q4,2011
+2011-07-01 14:00:00,766,Weekday,HP Pass,2011-07,2011,Loop Original,Business Pass,2012Q1,2012
+2011-08-01 14:00:00,921,Weekday,HP Pass,2011-08,2011,Loop Original,Business Pass,2012Q1,2012
+2011-09-01 14:00:00,802,Weekday,HP Pass,2011-09,2011,Loop Original,Business Pass,2012Q1,2012
+2011-10-01 14:00:00,950,Weekday,HP Pass,2011-10,2011,Loop Original,Business Pass,2012Q2,2012
+2011-11-01 14:00:00,732,Weekday,HP Pass,2011-11,2011,Loop Original,Business Pass,2012Q2,2012
+2011-12-01 14:00:00,520,Weekday,HP Pass,2011-12,2011,Loop Original,Business Pass,2012Q2,2012
+2012-01-01 14:00:00,842,Weekday,HP Pass,2012-01,2012,Loop Original,Business Pass,2012Q3,2012
+2012-02-01 14:00:00,812,Weekday,HP Pass,2012-02,2012,Loop Original,Business Pass,2012Q3,2012
+2012-03-01 14:00:00,858,Weekday,HP Pass,2012-03,2012,Loop Original,Business Pass,2012Q3,2012
+2012-04-01 14:00:00,933,Weekday,HP Pass,2012-04,2012,Loop Original,Business Pass,2012Q4,2012
+2012-05-01 14:00:00,1046,Weekday,HP Pass,2012-05,2012,Loop Original,Business Pass,2012Q4,2012
+2012-06-01 14:00:00,1017,Weekday,HP Pass,2012-06,2012,Loop Original,Business Pass,2012Q4,2012
+2012-07-01 14:00:00,819,Weekday,HP Pass,2012-07,2012,Loop Original,Business Pass,2013Q1,2013
+2012-08-01 14:00:00,699,Weekday,HP Pass,2012-08,2012,Loop Original,Business Pass,2013Q1,2013
+2012-09-01 14:00:00,607,Weekday,HP Pass,2012-09,2012,Loop Original,Business Pass,2013Q1,2013
+2012-10-01 14:00:00,755,Weekday,HP Pass,2012-10,2012,Loop Original,Business Pass,2013Q2,2013
+2012-11-01 14:00:00,587,Weekday,HP Pass,2012-11,2012,Loop Original,Business Pass,2013Q2,2013
+2012-12-01 14:00:00,398,Weekday,HP Pass,2012-12,2012,Loop Original,Business Pass,2013Q2,2013
+2013-01-01 14:00:00,693,Weekday,HP Pass,2013-01,2013,Loop Original,Business Pass,2013Q3,2013
+2013-02-01 14:00:00,723,Weekday,HP Pass,2013-02,2013,Loop Original,Business Pass,2013Q3,2013
+2013-03-01 14:00:00,684,Weekday,HP Pass,2013-03,2013,Loop Original,Business Pass,2013Q3,2013
+2013-04-01 14:00:00,664,Weekday,HP Pass,2013-04,2013,Loop Original,Business Pass,2013Q4,2013
+2013-05-01 14:00:00,688,Weekday,HP Pass,2013-05,2013,Loop Original,Business Pass,2013Q4,2013
+2013-06-01 14:00:00,666,Weekday,HP Pass,2013-06,2013,Loop Original,Business Pass,2013Q4,2013
+2013-07-01 14:00:00,592,Weekday,HP Pass,2013-07,2013,Loop Original,Business Pass,2014Q1,2014
+2013-08-01 14:00:00,733,Weekday,HP Pass,2013-08,2013,Loop Original,Business Pass,2014Q1,2014
+2013-09-01 14:00:00,699,Weekday,HP Pass,2013-09,2013,Loop Original,Business Pass,2014Q1,2014
+2013-10-01 14:00:00,700,Weekday,HP Pass,2013-10,2013,Loop Original,Business Pass,2014Q2,2014
+2013-11-01 14:00:00,553,Weekday,HP Pass,2013-11,2013,Loop Original,Business Pass,2014Q2,2014
+2013-12-01 14:00:00,378,Weekday,HP Pass,2013-12,2013,Loop Original,Business Pass,2014Q2,2014
+2014-01-01 14:00:00,733,Weekday,HP Pass,2014-01,2014,Loop Original,Business Pass,2014Q3,2014
+2014-02-01 14:00:00,531,Weekday,HP Pass,2014-02,2014,Loop Original,Business Pass,2014Q3,2014
+2014-03-01 14:00:00,635,Weekday,HP Pass,2014-03,2014,Loop Original,Business Pass,2014Q3,2014
+2014-04-01 14:00:00,602,Weekday,HP Pass,2014-04,2014,Loop Original,Business Pass,2014Q4,2014
+2014-05-01 14:00:00,535,Weekday,HP Pass,2014-05,2014,Loop Original,Business Pass,2014Q4,2014
+2014-06-01 14:00:00,516,Weekday,HP Pass,2014-06,2014,Loop Original,Business Pass,2014Q4,2014
+2014-07-01 14:00:00,599,Weekday,HP Pass,2014-07,2014,Loop Original,Business Pass,2015Q1,2015
+2014-08-01 14:00:00,518,Weekday,HP Pass,2014-08,2014,Loop Original,Business Pass,2015Q1,2015
+2014-09-01 14:00:00,688,Weekday,HP Pass,2014-09,2014,Loop Original,Business Pass,2015Q1,2015
+2014-10-01 14:00:00,696,Weekday,HP Pass,2014-10,2014,Loop Original,Business Pass,2015Q2,2015
+2014-11-01 14:00:00,476,Weekday,HP Pass,2014-11,2014,Loop Original,Business Pass,2015Q2,2015
+2014-12-01 14:00:00,406,Weekday,HP Pass,2014-12,2014,Loop Original,Business Pass,2015Q2,2015
+2015-01-01 14:00:00,557,Weekday,HP Pass,2015-01,2015,Loop Original,Business Pass,2015Q3,2015
+2015-02-01 14:00:00,535,Weekday,HP Pass,2015-02,2015,Loop Original,Business Pass,2015Q3,2015
+2015-03-01 14:00:00,570,Weekday,HP Pass,2015-03,2015,Loop Original,Business Pass,2015Q3,2015
+2015-04-01 14:00:00,515,Weekday,HP Pass,2015-04,2015,Loop Original,Business Pass,2015Q4,2015
+2015-05-01 14:00:00,459,Weekday,HP Pass,2015-05,2015,Loop Original,Business Pass,2015Q4,2015
+2015-06-01 14:00:00,488,Weekday,HP Pass,2015-06,2015,Loop Original,Business Pass,2015Q4,2015
+2015-07-01 14:00:00,458,Weekday,HP Pass,2015-07,2015,Loop Original,Business Pass,2016Q1,2016
+2015-08-01 14:00:00,342,Weekday,HP Pass,2015-08,2015,Loop Original,Business Pass,2016Q1,2016
+2015-09-01 14:00:00,375,Weekday,HP Pass,2015-09,2015,Loop Original,Business Pass,2016Q1,2016
+2015-10-01 14:00:00,420,Weekday,HP Pass,2015-10,2015,Loop Original,Business Pass,2016Q2,2016
+2015-11-01 14:00:00,328,Weekday,HP Pass,2015-11,2015,Loop Original,Business Pass,2016Q2,2016
+2015-12-01 14:00:00,272,Weekday,HP Pass,2015-12,2015,Loop Original,Business Pass,2016Q2,2016
+2016-01-01 14:00:00,371,Weekday,HP Pass,2016-01,2016,Loop Original,Business Pass,2016Q3,2016
+2016-02-01 14:00:00,440,Weekday,HP Pass,2016-02,2016,Loop Original,Business Pass,2016Q3,2016
+2016-03-01 14:00:00,438,Weekday,HP Pass,2016-03,2016,Loop Original,Business Pass,2016Q3,2016
+2016-04-01 14:00:00,364,Weekday,HP Pass,2016-04,2016,Loop Original,Business Pass,2016Q4,2016
+2016-05-01 14:00:00,381,Weekday,HP Pass,2016-05,2016,Loop Original,Business Pass,2016Q4,2016
+2016-06-01 14:00:00,425,Weekday,HP Pass,2016-06,2016,Loop Original,Business Pass,2016Q4,2016
+2016-07-01 14:00:00,373,Weekday,HP Pass,2016-07,2016,Loop Original,Business Pass,2017Q1,2017
+2016-08-01 14:00:00,435,Weekday,HP Pass,2016-08,2016,Loop Original,Business Pass,2017Q1,2017
+2016-09-01 14:00:00,420,Weekday,HP Pass,2016-09,2016,Loop Original,Business Pass,2017Q1,2017
+2016-10-01 14:00:00,444,Weekday,HP Pass,2016-10,2016,Loop Original,Business Pass,2017Q2,2017
+2016-11-01 14:00:00,365,Weekday,HP Pass,2016-11,2016,Loop Original,Business Pass,2017Q2,2017
+2016-12-01 14:00:00,259,Weekday,HP Pass,2016-12,2016,Loop Original,Business Pass,2017Q2,2017
+2017-01-01 14:00:00,394,Weekday,HP Pass,2017-01,2017,Loop Original,Business Pass,2017Q3,2017
+2017-02-01 14:00:00,374,Weekday,HP Pass,2017-02,2017,Loop Original,Business Pass,2017Q3,2017
+2017-03-01 14:00:00,444,Weekday,HP Pass,2017-03,2017,Loop Original,Business Pass,2017Q3,2017
+2017-04-01 14:00:00,527,Weekday,HP Pass,2017-04,2017,Loop Original,Business Pass,2017Q4,2017
+2017-05-01 14:00:00,568,Weekday,HP Pass,2017-05,2017,Loop Original,Business Pass,2017Q4,2017
+2017-06-01 14:00:00,474,Weekday,HP Pass,2017-06,2017,Loop Original,Business Pass,2017Q4,2017
+2017-07-01 14:00:00,480,Weekday,HP Pass,2017-07,2017,Loop Original,Business Pass,2018Q1,2018
+2017-08-01 14:00:00,552,Weekday,HP Pass,2017-08,2017,Loop Original,Business Pass,2018Q1,2018
+2017-09-01 14:00:00,444,Weekday,HP Pass,2017-09,2017,Loop Original,Business Pass,2018Q1,2018
+2017-10-01 14:00:00,528,Weekday,HP Pass,2017-10,2017,Loop Original,Business Pass,2018Q2,2018
+2017-11-01 14:00:00,401,Weekday,HP Pass,2017-11,2017,Loop Original,Business Pass,2018Q2,2018
+2017-12-01 14:00:00,293,Weekday,HP Pass,2017-12,2017,Loop Original,Business Pass,2018Q2,2018
+2018-01-01 14:00:00,488,Weekday,HP Pass,2018-01,2018,Loop Original,Business Pass,2018Q3,2018
+2018-02-01 14:00:00,419,Weekday,HP Pass,2018-02,2018,Loop Original,Business Pass,2018Q3,2018
+2018-03-01 14:00:00,397,Weekday,HP Pass,2018-03,2018,Loop Original,Business Pass,2018Q3,2018
+2018-04-01 14:00:00,407,Weekday,HP Pass,2018-04,2018,Loop Original,Business Pass,2018Q4,2018
+2018-05-01 14:00:00,471,Weekday,HP Pass,2018-05,2018,Loop Original,Business Pass,2018Q4,2018
+2018-06-01 14:00:00,410,Weekday,HP Pass,2018-06,2018,Loop Original,Business Pass,2018Q4,2018
+2018-07-01 14:00:00,442,Weekday,HP Pass,2018-07,2018,Loop Original,Business Pass,2019Q1,2019
+2018-08-01 14:00:00,480,Weekday,HP Pass,2018-08,2018,Loop Original,Business Pass,2019Q1,2019
+2018-09-01 14:00:00,351,Weekday,HP Pass,2018-09,2018,Loop Original,Business Pass,2019Q1,2019
+2018-10-01 14:00:00,490,Weekday,HP Pass,2018-10,2018,Loop Original,Business Pass,2019Q2,2019
+2018-11-01 14:00:00,355,Weekday,HP Pass,2018-11,2018,Loop Original,Business Pass,2019Q2,2019
+2018-12-01 14:00:00,276,Weekday,HP Pass,2018-12,2018,Loop Original,Business Pass,2019Q2,2019
+2019-01-01 14:00:00,377,Weekday,HP Pass,2019-01,2019,Loop Original,Business Pass,2019Q3,2019
+2019-02-01 14:00:00,344,Weekday,HP Pass,2019-02,2019,Loop Original,Business Pass,2019Q3,2019
+2019-03-01 14:00:00,398,Weekday,HP Pass,2019-03,2019,Loop Original,Business Pass,2019Q3,2019
+2019-04-01 14:00:00,366,Weekday,HP Pass,2019-04,2019,Loop Original,Business Pass,2019Q4,2019
+2019-05-01 14:00:00,433,Weekday,HP Pass,2019-05,2019,Loop Original,Business Pass,2019Q4,2019
+2019-06-01 14:00:00,329,Weekday,HP Pass,2019-06,2019,Loop Original,Business Pass,2019Q4,2019
+2019-07-01 14:00:00,359,Weekday,HP Pass,2019-07,2019,Loop Original,Business Pass,2020Q1,2020
+2019-08-01 14:00:00,395,Weekday,HP Pass,2019-08,2019,Loop Original,Business Pass,2020Q1,2020
+2019-09-01 14:00:00,291,Weekday,HP Pass,2019-09,2019,Loop Original,Business Pass,2020Q1,2020
+2019-10-01 14:00:00,386,Weekday,HP Pass,2019-10,2019,Loop Original,Business Pass,2020Q2,2020
+2019-11-01 14:00:00,302,Weekday,HP Pass,2019-11,2019,Loop Original,Business Pass,2020Q2,2020
+2019-12-01 14:00:00,204,Weekday,HP Pass,2019-12,2019,Loop Original,Business Pass,2020Q2,2020
+2020-01-01 14:00:00,324,Weekday,HP Pass,2020-01,2020,Loop Original,Business Pass,2020Q3,2020
+2020-02-01 14:00:00,345,Weekday,HP Pass,2020-02,2020,Loop Original,Business Pass,2020Q3,2020
+2020-03-01 14:00:00,68,Weekday,HP Pass,2020-03,2020,Loop Original,Business Pass,2020Q3,2020
+2008-11-01 15:00:00,14,Weekday,Sam Pass,2008-11,2008,Loop Original,Business Pass,2009Q2,2009
+2008-12-01 15:00:00,17,Weekday,Sam Pass,2008-12,2008,Loop Original,Business Pass,2009Q2,2009
+2009-01-01 15:00:00,8,Weekday,Sam Pass,2009-01,2009,Loop Original,Business Pass,2009Q3,2009
+2009-02-01 15:00:00,18,Weekday,Sam Pass,2009-02,2009,Loop Original,Business Pass,2009Q3,2009
+2009-03-01 15:00:00,15,Weekday,Sam Pass,2009-03,2009,Loop Original,Business Pass,2009Q3,2009
+2009-04-01 15:00:00,82,Weekday,Sam Pass,2009-04,2009,Loop Original,Business Pass,2009Q4,2009
+2009-05-01 15:00:00,57,Weekday,Sam Pass,2009-05,2009,Loop Original,Business Pass,2009Q4,2009
+2009-06-01 15:00:00,65,Weekday,Sam Pass,2009-06,2009,Loop Original,Business Pass,2009Q4,2009
+2009-07-01 15:00:00,95,Weekday,Sam Pass,2009-07,2009,Loop Original,Business Pass,2010Q1,2010
+2009-08-01 15:00:00,42,Weekday,Sam Pass,2009-08,2009,Loop Original,Business Pass,2010Q1,2010
+2009-09-01 15:00:00,54,Weekday,Sam Pass,2009-09,2009,Loop Original,Business Pass,2010Q1,2010
+2009-10-01 15:00:00,26,Weekday,Sam Pass,2009-10,2009,Loop Original,Business Pass,2010Q2,2010
+2009-11-01 15:00:00,45,Weekday,Sam Pass,2009-11,2009,Loop Original,Business Pass,2010Q2,2010
+2009-12-01 15:00:00,58,Weekday,Sam Pass,2009-12,2009,Loop Original,Business Pass,2010Q2,2010
+2010-01-01 15:00:00,45,Weekday,Sam Pass,2010-01,2010,Loop Original,Business Pass,2010Q3,2010
+2010-02-01 15:00:00,53,Weekday,Sam Pass,2010-02,2010,Loop Original,Business Pass,2010Q3,2010
+2010-03-01 15:00:00,57,Weekday,Sam Pass,2010-03,2010,Loop Original,Business Pass,2010Q3,2010
+2010-04-01 15:00:00,58,Weekday,Sam Pass,2010-04,2010,Loop Original,Business Pass,2010Q4,2010
+2010-05-01 15:00:00,72,Weekday,Sam Pass,2010-05,2010,Loop Original,Business Pass,2010Q4,2010
+2010-06-01 15:00:00,82,Weekday,Sam Pass,2010-06,2010,Loop Original,Business Pass,2010Q4,2010
+2010-07-01 15:00:00,91,Weekday,Sam Pass,2010-07,2010,Loop Original,Business Pass,2011Q1,2011
+2010-08-01 15:00:00,102,Weekday,Sam Pass,2010-08,2010,Loop Original,Business Pass,2011Q1,2011
+2010-09-01 15:00:00,95,Weekday,Sam Pass,2010-09,2010,Loop Original,Business Pass,2011Q1,2011
+2010-10-01 15:00:00,57,Weekday,Sam Pass,2010-10,2010,Loop Original,Business Pass,2011Q2,2011
+2010-11-01 15:00:00,48,Weekday,Sam Pass,2010-11,2010,Loop Original,Business Pass,2011Q2,2011
+2010-12-01 15:00:00,54,Weekday,Sam Pass,2010-12,2010,Loop Original,Business Pass,2011Q2,2011
+2011-01-01 15:00:00,66,Weekday,Sam Pass,2011-01,2011,Loop Original,Business Pass,2011Q3,2011
+2011-02-01 15:00:00,33,Weekday,Sam Pass,2011-02,2011,Loop Original,Business Pass,2011Q3,2011
+2011-03-01 15:00:00,59,Weekday,Sam Pass,2011-03,2011,Loop Original,Business Pass,2011Q3,2011
+2011-04-01 15:00:00,116,Weekday,Sam Pass,2011-04,2011,Loop Original,Business Pass,2011Q4,2011
+2011-05-01 15:00:00,125,Weekday,Sam Pass,2011-05,2011,Loop Original,Business Pass,2011Q4,2011
+2011-06-01 15:00:00,112,Weekday,Sam Pass,2011-06,2011,Loop Original,Business Pass,2011Q4,2011
+2011-07-01 15:00:00,105,Weekday,Sam Pass,2011-07,2011,Loop Original,Business Pass,2012Q1,2012
+2011-08-01 15:00:00,123,Weekday,Sam Pass,2011-08,2011,Loop Original,Business Pass,2012Q1,2012
+2011-09-01 15:00:00,127,Weekday,Sam Pass,2011-09,2011,Loop Original,Business Pass,2012Q1,2012
+2011-10-01 15:00:00,160,Weekday,Sam Pass,2011-10,2011,Loop Original,Business Pass,2012Q2,2012
+2011-11-01 15:00:00,178,Weekday,Sam Pass,2011-11,2011,Loop Original,Business Pass,2012Q2,2012
+2011-12-01 15:00:00,134,Weekday,Sam Pass,2011-12,2011,Loop Original,Business Pass,2012Q2,2012
+2012-01-01 15:00:00,169,Weekday,Sam Pass,2012-01,2012,Loop Original,Business Pass,2012Q3,2012
+2012-02-01 15:00:00,202,Weekday,Sam Pass,2012-02,2012,Loop Original,Business Pass,2012Q3,2012
+2012-03-01 15:00:00,220,Weekday,Sam Pass,2012-03,2012,Loop Original,Business Pass,2012Q3,2012
+2012-04-01 15:00:00,194,Weekday,Sam Pass,2012-04,2012,Loop Original,Business Pass,2012Q4,2012
+2012-05-01 15:00:00,235,Weekday,Sam Pass,2012-05,2012,Loop Original,Business Pass,2012Q4,2012
+2012-06-01 15:00:00,239,Weekday,Sam Pass,2012-06,2012,Loop Original,Business Pass,2012Q4,2012
+2012-07-01 15:00:00,196,Weekday,Sam Pass,2012-07,2012,Loop Original,Business Pass,2013Q1,2013
+2012-08-01 15:00:00,191,Weekday,Sam Pass,2012-08,2012,Loop Original,Business Pass,2013Q1,2013
+2012-09-01 15:00:00,225,Weekday,Sam Pass,2012-09,2012,Loop Original,Business Pass,2013Q1,2013
+2012-10-01 15:00:00,249,Weekday,Sam Pass,2012-10,2012,Loop Original,Business Pass,2013Q2,2013
+2012-11-01 15:00:00,162,Weekday,Sam Pass,2012-11,2012,Loop Original,Business Pass,2013Q2,2013
+2012-12-01 15:00:00,124,Weekday,Sam Pass,2012-12,2012,Loop Original,Business Pass,2013Q2,2013
+2013-01-01 15:00:00,188,Weekday,Sam Pass,2013-01,2013,Loop Original,Business Pass,2013Q3,2013
+2013-02-01 15:00:00,160,Weekday,Sam Pass,2013-02,2013,Loop Original,Business Pass,2013Q3,2013
+2013-03-01 15:00:00,160,Weekday,Sam Pass,2013-03,2013,Loop Original,Business Pass,2013Q3,2013
+2013-04-01 15:00:00,204,Weekday,Sam Pass,2013-04,2013,Loop Original,Business Pass,2013Q4,2013
+2013-05-01 15:00:00,172,Weekday,Sam Pass,2013-05,2013,Loop Original,Business Pass,2013Q4,2013
+2013-06-01 15:00:00,130,Weekday,Sam Pass,2013-06,2013,Loop Original,Business Pass,2013Q4,2013
+2013-07-01 15:00:00,245,Weekday,Sam Pass,2013-07,2013,Loop Original,Business Pass,2014Q1,2014
+2013-08-01 15:00:00,222,Weekday,Sam Pass,2013-08,2013,Loop Original,Business Pass,2014Q1,2014
+2013-09-01 15:00:00,159,Weekday,Sam Pass,2013-09,2013,Loop Original,Business Pass,2014Q1,2014
+2013-10-01 15:00:00,207,Weekday,Sam Pass,2013-10,2013,Loop Original,Business Pass,2014Q2,2014
+2013-11-01 15:00:00,147,Weekday,Sam Pass,2013-11,2013,Loop Original,Business Pass,2014Q2,2014
+2013-12-01 15:00:00,129,Weekday,Sam Pass,2013-12,2013,Loop Original,Business Pass,2014Q2,2014
+2014-01-01 15:00:00,206,Weekday,Sam Pass,2014-01,2014,Loop Original,Business Pass,2014Q3,2014
+2014-02-01 15:00:00,161,Weekday,Sam Pass,2014-02,2014,Loop Original,Business Pass,2014Q3,2014
+2014-03-01 15:00:00,189,Weekday,Sam Pass,2014-03,2014,Loop Original,Business Pass,2014Q3,2014
+2014-04-01 15:00:00,162,Weekday,Sam Pass,2014-04,2014,Loop Original,Business Pass,2014Q4,2014
+2014-05-01 15:00:00,165,Weekday,Sam Pass,2014-05,2014,Loop Original,Business Pass,2014Q4,2014
+2014-06-01 15:00:00,180,Weekday,Sam Pass,2014-06,2014,Loop Original,Business Pass,2014Q4,2014
+2014-07-01 15:00:00,210,Weekday,Sam Pass,2014-07,2014,Loop Original,Business Pass,2015Q1,2015
+2014-08-01 15:00:00,172,Weekday,Sam Pass,2014-08,2014,Loop Original,Business Pass,2015Q1,2015
+2014-09-01 15:00:00,153,Weekday,Sam Pass,2014-09,2014,Loop Original,Business Pass,2015Q1,2015
+2014-10-01 15:00:00,185,Weekday,Sam Pass,2014-10,2014,Loop Original,Business Pass,2015Q2,2015
+2014-11-01 15:00:00,147,Weekday,Sam Pass,2014-11,2014,Loop Original,Business Pass,2015Q2,2015
+2014-12-01 15:00:00,178,Weekday,Sam Pass,2014-12,2014,Loop Original,Business Pass,2015Q2,2015
+2015-01-01 15:00:00,102,Weekday,Sam Pass,2015-01,2015,Loop Original,Business Pass,2015Q3,2015
+2015-02-01 15:00:00,118,Weekday,Sam Pass,2015-02,2015,Loop Original,Business Pass,2015Q3,2015
+2015-03-01 15:00:00,99,Weekday,Sam Pass,2015-03,2015,Loop Original,Business Pass,2015Q3,2015
+2015-04-01 15:00:00,117,Weekday,Sam Pass,2015-04,2015,Loop Original,Business Pass,2015Q4,2015
+2015-05-01 15:00:00,99,Weekday,Sam Pass,2015-05,2015,Loop Original,Business Pass,2015Q4,2015
+2015-06-01 15:00:00,141,Weekday,Sam Pass,2015-06,2015,Loop Original,Business Pass,2015Q4,2015
+2015-07-01 15:00:00,105,Weekday,Sam Pass,2015-07,2015,Loop Original,Business Pass,2016Q1,2016
+2015-08-01 15:00:00,129,Weekday,Sam Pass,2015-08,2015,Loop Original,Business Pass,2016Q1,2016
+2015-09-01 15:00:00,133,Weekday,Sam Pass,2015-09,2015,Loop Original,Business Pass,2016Q1,2016
+2015-10-01 15:00:00,138,Weekday,Sam Pass,2015-10,2015,Loop Original,Business Pass,2016Q2,2016
+2015-11-01 15:00:00,98,Weekday,Sam Pass,2015-11,2015,Loop Original,Business Pass,2016Q2,2016
+2015-12-01 15:00:00,110,Weekday,Sam Pass,2015-12,2015,Loop Original,Business Pass,2016Q2,2016
+2016-01-01 15:00:00,121,Weekday,Sam Pass,2016-01,2016,Loop Original,Business Pass,2016Q3,2016
+2016-02-01 15:00:00,103,Weekday,Sam Pass,2016-02,2016,Loop Original,Business Pass,2016Q3,2016
+2016-03-01 15:00:00,84,Weekday,Sam Pass,2016-03,2016,Loop Original,Business Pass,2016Q3,2016
+2016-04-01 15:00:00,34,Weekday,Sam Pass,2016-04,2016,Loop Original,Business Pass,2016Q4,2016
+2016-05-01 15:00:00,22,Weekday,Sam Pass,2016-05,2016,Loop Original,Business Pass,2016Q4,2016
+2016-06-01 15:00:00,22,Weekday,Sam Pass,2016-06,2016,Loop Original,Business Pass,2016Q4,2016
+2016-07-01 15:00:00,7,Weekday,Sam Pass,2016-07,2016,Loop Original,Business Pass,2017Q1,2017
+2016-08-01 15:00:00,25,Weekday,Sam Pass,2016-08,2016,Loop Original,Business Pass,2017Q1,2017
+2016-09-01 15:00:00,53,Weekday,Sam Pass,2016-09,2016,Loop Original,Business Pass,2017Q1,2017
+2016-10-01 15:00:00,43,Weekday,Sam Pass,2016-10,2016,Loop Original,Business Pass,2017Q2,2017
+2016-11-01 15:00:00,37,Weekday,Sam Pass,2016-11,2016,Loop Original,Business Pass,2017Q2,2017
+2016-12-01 15:00:00,35,Weekday,Sam Pass,2016-12,2016,Loop Original,Business Pass,2017Q2,2017
+2017-01-01 15:00:00,28,Weekday,Sam Pass,2017-01,2017,Loop Original,Business Pass,2017Q3,2017
+2017-02-01 15:00:00,48,Weekday,Sam Pass,2017-02,2017,Loop Original,Business Pass,2017Q3,2017
+2017-03-01 15:00:00,22,Weekday,Sam Pass,2017-03,2017,Loop Original,Business Pass,2017Q3,2017
+2017-04-01 15:00:00,25,Weekday,Sam Pass,2017-04,2017,Loop Original,Business Pass,2017Q4,2017
+2017-05-01 15:00:00,41,Weekday,Sam Pass,2017-05,2017,Loop Original,Business Pass,2017Q4,2017
+2017-06-01 15:00:00,51,Weekday,Sam Pass,2017-06,2017,Loop Original,Business Pass,2017Q4,2017
+2017-07-01 15:00:00,53,Weekday,Sam Pass,2017-07,2017,Loop Original,Business Pass,2018Q1,2018
+2017-08-01 15:00:00,54,Weekday,Sam Pass,2017-08,2017,Loop Original,Business Pass,2018Q1,2018
+2017-09-01 15:00:00,66,Weekday,Sam Pass,2017-09,2017,Loop Original,Business Pass,2018Q1,2018
+2017-10-01 15:00:00,61,Weekday,Sam Pass,2017-10,2017,Loop Original,Business Pass,2018Q2,2018
+2017-11-01 15:00:00,38,Weekday,Sam Pass,2017-11,2017,Loop Original,Business Pass,2018Q2,2018
+2017-12-01 15:00:00,42,Weekday,Sam Pass,2017-12,2017,Loop Original,Business Pass,2018Q2,2018
+2018-01-01 15:00:00,51,Weekday,Sam Pass,2018-01,2018,Loop Original,Business Pass,2018Q3,2018
+2018-02-01 15:00:00,52,Weekday,Sam Pass,2018-02,2018,Loop Original,Business Pass,2018Q3,2018
+2018-03-01 15:00:00,54,Weekday,Sam Pass,2018-03,2018,Loop Original,Business Pass,2018Q3,2018
+2018-04-01 15:00:00,58,Weekday,Sam Pass,2018-04,2018,Loop Original,Business Pass,2018Q4,2018
+2018-05-01 15:00:00,56,Weekday,Sam Pass,2018-05,2018,Loop Original,Business Pass,2018Q4,2018
+2018-06-01 15:00:00,3,Weekday,Sam Pass,2018-06,2018,Loop Original,Business Pass,2018Q4,2018
+2018-07-01 15:00:00,73,Weekday,Sam Pass,2018-07,2018,Loop Original,Business Pass,2019Q1,2019
+2018-08-01 15:00:00,82,Weekday,Sam Pass,2018-08,2018,Loop Original,Business Pass,2019Q1,2019
+2018-09-01 15:00:00,78,Weekday,Sam Pass,2018-09,2018,Loop Original,Business Pass,2019Q1,2019
+2018-10-01 15:00:00,40,Weekday,Sam Pass,2018-10,2018,Loop Original,Business Pass,2019Q2,2019
+2018-11-01 15:00:00,90,Weekday,Sam Pass,2018-11,2018,Loop Original,Business Pass,2019Q2,2019
+2018-12-01 15:00:00,75,Weekday,Sam Pass,2018-12,2018,Loop Original,Business Pass,2019Q2,2019
+2019-01-01 15:00:00,95,Weekday,Sam Pass,2019-01,2019,Loop Original,Business Pass,2019Q3,2019
+2019-02-01 15:00:00,86,Weekday,Sam Pass,2019-02,2019,Loop Original,Business Pass,2019Q3,2019
+2019-03-01 15:00:00,99,Weekday,Sam Pass,2019-03,2019,Loop Original,Business Pass,2019Q3,2019
+2019-04-01 15:00:00,95,Weekday,Sam Pass,2019-04,2019,Loop Original,Business Pass,2019Q4,2019
+2019-05-01 15:00:00,113,Weekday,Sam Pass,2019-05,2019,Loop Original,Business Pass,2019Q4,2019
+2019-06-01 15:00:00,73,Weekday,Sam Pass,2019-06,2019,Loop Original,Business Pass,2019Q4,2019
+2019-07-01 15:00:00,84,Weekday,Sam Pass,2019-07,2019,Loop Original,Business Pass,2020Q1,2020
+2019-08-01 15:00:00,83,Weekday,Sam Pass,2019-08,2019,Loop Original,Business Pass,2020Q1,2020
+2019-09-01 15:00:00,91,Weekday,Sam Pass,2019-09,2019,Loop Original,Business Pass,2020Q1,2020
+2019-10-01 15:00:00,102,Weekday,Sam Pass,2019-10,2019,Loop Original,Business Pass,2020Q2,2020
+2019-11-01 15:00:00,75,Weekday,Sam Pass,2019-11,2019,Loop Original,Business Pass,2020Q2,2020
+2019-12-01 15:00:00,73,Weekday,Sam Pass,2019-12,2019,Loop Original,Business Pass,2020Q2,2020
+2020-01-01 15:00:00,64,Weekday,Sam Pass,2020-01,2020,Loop Original,Business Pass,2020Q3,2020
+2020-02-01 15:00:00,38,Weekday,Sam Pass,2020-02,2020,Loop Original,Business Pass,2020Q3,2020
+2020-03-01 15:00:00,22,Weekday,Sam Pass,2020-03,2020,Loop Original,Business Pass,2020Q3,2020
