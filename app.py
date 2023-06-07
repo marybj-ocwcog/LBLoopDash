@@ -1,6 +1,5 @@
 import dash
 from dash import Dash, dcc, html, Input, Output
-import dash_leaflet as dl
 import pandas as pd
 import plotly.express as px
 from plotly.subplots import make_subplots
