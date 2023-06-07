@@ -1,44 +1,49 @@
 import dash
 from dash import Dash, dcc, html, Input, Output
-# from dash.dependencies import Input, Output
-# import dash_core_components as dcc
-# import dash_html_components as html
 import dash_leaflet as dl
 import pandas as pd
 import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.graph_objs as go
-import numpy as np
+#import numpy as np
 import dash_bootstrap_components as dbc
 import geopandas as gpd
-import json
-from dash_bootstrap_templates import ThemeChangerAIO, template_from_url
-from gtfs_functions import Feed, map_gdf
+#import json
+#from dash_bootstrap_templates import ThemeChangerAIO, template_from_url
+#from gtfs_functions import Feed, map_gdf
 
 
 # Load ridership data
-df = pd.read_csv('loop.csv')
+df = pd.read_csv('assets/loop.csv')
 df['datetime'] = pd.to_datetime(df['datetime'])
 df['Year-Month'] = df['datetime'].dt.to_period('M')
 
 # load notes on LB Loop service
-notes_df = pd.read_csv('LBLoop_Notes.csv')
+notes_df = pd.read_csv('assets/LBLoop_Notes.csv')
 notes_df.sort_values(by=['Year'], inplace=True)
 
-dfCC = df.loc[df['service'].isin(['Campus Connector 1', 'Campus Connector 2'])]
+#create route datasets from the ridership data
+dfCC = df.loc[df['service'].isin(['Campus Connector'])]
+dfSat = df.loc[df['service'].isin(['Saturday'])]
+dfH2H = df.loc[df['service'].isin(['Heart-to-Hub Uniter'])]
+dfUS20 = df.loc[df['service'].isin(['US 20 Commuter'])]
 
 # Load shapefiles using Geopandas
-shapefile1 = gpd.read_file('LocalBus_LB_Loop.shp')
-shapefile2 = gpd.read_file('GTFS_oregon_stops COG LB Loop.shp')
-
-# Convert geopandas dataframe to json
-shapefile1_json = json.loads(shapefile1.to_json())
-shapefile2_json = json.loads(shapefile2.to_json())
+sfRouteSat = gpd.read_file('assets/shapes_GTFS_Saturday.shp')
+sfStopSat = gpd.read_file('assets/stops_GTFSStops_Saturday.shp')
+sfRouteCC = gpd.read_file('assets/shapes_GTFS_CampusConnector.shp')
+sfStopCC = gpd.read_file('assets/stops_GTFSStops_CampusConnector.shp')
+sfRouteUS20 = gpd.read_file('assets/shapes_GTFS_US20Commuter.shp')
+sfStopUS20 = gpd.read_file('assets/stops_GTFSStops_US20Commuter.shp')
+sfRouteHtH = gpd.read_file('assets/shapes_GTFS_HtHUniter.shp')
+sfStopHtH = gpd.read_file('assets/stops_GTFSStops_HtHUniter.shp')
+#shapefile1_json = json.loads(shapefile1.to_json())
+#shapefile2_json = json.loads(shapefile2.to_json())
 
 
 # ------------------------------------------------------ APP ------------------------------------------------------
 dbc_css = (
-    "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css")
+	"https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css")
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUMEN, dbc_css])
 app.title = "Linn-Benton Loop Ridership"
 
@@ -51,12 +56,12 @@ main_title_header = html.Div([
 	dbc.Row([
 		dbc.Col([
 			html.Img(src=app.get_asset_url("loop-logo-flat.jpg"),
-                style={"width": "100px", "height": "100px", "margin-right": "10px", 'align': 'left'}),
+				style={"width": "100px", "height": "100px", "margin-right": "10px", 'align': 'left'}),
 			html.Br(),
 			], width='auto'),
 		dbc.Col([
 			html.H1(children="Linn-Benton Loop Ridership",
-			        style={"color": "rgb(33 36 35)"}),
+					style={"color": "rgb(33 36 35)"}),
 			html.Label(
 					"Use this interface to explore the ridership of the Linn-Benton Loop transit system over the years.",
 					style={"color": "rgb(33 36 35)"},
@@ -70,10 +75,10 @@ main_title_header = html.Div([
 # data selectors for overview tab
 overview_data_selectors = html.Div([
 	html.Br(),
-    html.Label('Use these filter options to explore the data.', style={
-               "color": "rgb(33 36 35)", "margin-left": "10px"}),
-    html.Br(),
-    html.Br(),
+	html.Label('Use these filter options to explore the data.', style={
+			   "color": "rgb(33 36 35)", "margin-left": "10px"}),
+	html.Br(),
+	html.Br(),
 	dbc.Row([
 		dbc.Col([
 			dcc.RadioItems(
@@ -88,7 +93,7 @@ overview_data_selectors = html.Div([
 		], width=2),
 		dbc.Col([
 			html.Label('Select a year range:', htmlFor='year-slider',
-			           style={"color": "rgb(33 36 35)", "margin-left": "10px"}),
+					   style={"color": "rgb(33 36 35)", "margin-left": "10px"}),
 			dcc.RangeSlider(
 				id='year-slider',
 				marks={str(year): str(year) for year in df['Year'].unique()},
@@ -99,16 +104,16 @@ overview_data_selectors = html.Div([
 			)
 		])
 	]),
-    html.Br()
+	html.Br()
 ], style={'backgroundColor': 'beige', 'marginTop': 22, 'margin-left': '10px', 'align': 'left', 'width': '90vw'}, className='dbc')
 
 # data selectors for overview tab - by month (it is exactly the same as the previous one)
 overview_data_selectors2 = html.Div([
 	html.Br(),
-    html.Label('Use these filter options to explore the month-by-month data.',
-               style={"color": "rgb(33 36 35)", "margin-left": "10px"}),
-    html.Br(),
-    html.Br(),
+	html.Label('Use these filter options to explore the month-by-month data.',
+			   style={"color": "rgb(33 36 35)", "margin-left": "10px"}),
+	html.Br(),
+	html.Br(),
 	dbc.Row([
 		dbc.Col([
 			dcc.RadioItems(
@@ -123,7 +128,7 @@ overview_data_selectors2 = html.Div([
 		], width=2),
 		dbc.Col([
 			html.Label('Select a year range:', htmlFor='year-slider2',
-			           style={"color": "rgb(33 36 35)", "margin-left": "10px"}),
+					   style={"color": "rgb(33 36 35)", "margin-left": "10px"}),
 			dcc.RangeSlider(
 				id='year-slider2',
 				marks={str(year): str(year) for year in df['Year'].unique()},
@@ -134,7 +139,7 @@ overview_data_selectors2 = html.Div([
 			)
 		])
 	]),
-    html.Br()
+	html.Br()
 ], style={'backgroundColor': 'beige', 'marginTop': 22, 'margin-left': '10px', 'align': 'left', 'width': '90vw'}, className='dbc')
 
 
@@ -147,13 +152,13 @@ tabs = html.Div([
 					label="Overview",
 					value="tab-1",
 					children=html.Div([overview_data_selectors, dcc.Graph(id='subplot',
-                        style={'width': '90vw', 'margin-left': '15px', 'align': 'left'})])
+						style={'width': '90vw', 'margin-left': '15px', 'align': 'left'})])
 				),
-                dcc.Tab(
+				dcc.Tab(
 					label="Overview - by Month",
 					value="tab-2",
-					children=html.Div([overview_data_selectors2, dcc.Graph(id='month_table',
-                        style={'width': '90vw', 'margin-left': '15px', 'align': 'left'})])
+					children=html.Div([overview_data_selectors2, dcc.Graph(id='monthly_data_table',
+						style={'width': '90vw', 'margin-left': '15px', 'align': 'left'})])
 				),
 				dcc.Tab(
 					label="Route:  Campus Connector",
@@ -218,25 +223,25 @@ def update_subplot(year_type, year_range):
 		table_headers = ['Year', 'Note', 'Service']  # for table fig
 
 	filtered_df = df[(df[year_column] >= year_range[0]) &
-	                  (df[year_column] <= year_range[1])]
+					  (df[year_column] <= year_range[1])]
 	rides_per_year = filtered_df.groupby(
-	    [year_column])['total_number'].sum().reset_index(name='Count')
+		[year_column])['total_number'].sum().reset_index(name='Count')
 
 	fig = make_subplots(
-		rows=3, cols=3,
+		rows=2, cols=3,
 		subplot_titles=(plot_title,
-                        'Notes',
+						'Notes',
 						"by Ticket Type (grouped by Ticket Group)",
 						"by Ticket Group",
 						'by Route'),
 		specs=[
-        [{"colspan": 2}, None, {"type": "table"}],
+		[{"colspan": 2}, None, {"type": "table"}],
 		[{'type': 'xy'}, {'type': 'pie'}, {'type': 'xy'}]
 		]
-        )
-    # _____________________________________________________
-    # bar chart of ridership by selected year type
-    # _____________________________________________________
+		)
+	# _____________________________________________________
+	# bar chart of ridership by selected year type
+	# _____________________________________________________
 	fig.add_trace(
 		go.Bar(
 			x=rides_per_year[year_column],
@@ -252,15 +257,15 @@ def update_subplot(year_type, year_range):
 		hoverlabel=dict(
 			bgcolor="white")
 	)
-    # _____________________________________________________
+	# _____________________________________________________
 	# notes for the years selected
-    # _____________________________________________________
+	# _____________________________________________________
 	filtered_notesTest = notes_df[(notes_df[year_column] >= year_range[0]) & (
-	    notes_df[year_column] <= year_range[1])]
+		notes_df[year_column] <= year_range[1])]
 
 	if filtered_notesTest.empty:
 		no_data_dict = {'Year': [''], 'Fiscal Year': [''], 'Note': [
-		    'No notes for this time period.'], 'Service': ['']}
+			'No notes for this time period.'], 'Service': ['']}
 		filtered_notes = pd.DataFrame.from_dict(no_data_dict)
 	else:
 		filtered_notes = filtered_notesTest.copy(deep=True)
@@ -271,20 +276,20 @@ def update_subplot(year_type, year_range):
 		columnwidth=[10, 50, 15],
 			header=dict(values=table_headers, align='left'),
 			cells=dict(values=[filtered_notes[year_column],
-			           filtered_notes.Note, filtered_notes.Service], align='left')
+					   filtered_notes.Note, filtered_notes.Service], align='left')
 		),
 		row=1, col=3
 	)
 
-    # _____________________________________________________
+	# _____________________________________________________
 	# Process and aggregate the dataframes for second row of charts
-    # ____________________________________________________
+	# ____________________________________________________
 	df_agg_type = filtered_df.groupby(['ticket_group', 'ticket_type'])[
-	                                  'total_number'].sum().reset_index()
+									  'total_number'].sum().reset_index()
 	df_agg_group = filtered_df.groupby('ticket_group')[
-	                                   'total_number'].sum().reset_index()
+									   'total_number'].sum().reset_index()
 	df_agg_route = filtered_df.groupby(
-	    'service')['total_number'].sum().reset_index()
+		'service')['total_number'].sum().reset_index()
 
 	# Create a list to store traces
 	data_type = []
@@ -295,9 +300,9 @@ def update_subplot(year_type, year_range):
 	group_colors = {group: color for group, color in zip(df_agg_group['ticket_group'].unique(),
 														 px.colors.qualitative.Plotly)}
 
-    # _____________________________________________________
+	# _____________________________________________________
 	# Create a trace for each group (for the 'by type, by group' bar chart)
-    # _____________________________________________________
+	# _____________________________________________________
 	for group, color in group_colors.items():
 		df_group = df_agg_type[df_agg_type['ticket_group'] == group]
 		data_type.append(go.Bar(name=group,
@@ -309,18 +314,18 @@ def update_subplot(year_type, year_range):
 								orientation='h',
 								marker_color=color)
 						)
-    # _____________________________________________________
+	# _____________________________________________________
 	# Create a trace for the 'by group' pie chart
-    # _____________________________________________________
+	# _____________________________________________________
 	data_group.append(go.Pie(labels=df_agg_group['ticket_group'],
 							values=df_agg_group['total_number'],
 							hovertemplate='Ticket Group: %{label} <br> Tickets Sold: %{value:,.0f}<extra></extra>',
 							showlegend=False,
 							marker_colors=[group_colors[group] for group in df_agg_group['ticket_group']])
 						)
-    # _____________________________________________________
+	# _____________________________________________________
 	# Create a trace for the 'by route' chart
-    # _____________________________________________________
+	# _____________________________________________________
 	data_route.append(go.Bar(name='Total',
 							y=df_agg_route['service'],
 							x=df_agg_route['total_number'],
@@ -341,7 +346,7 @@ def update_subplot(year_type, year_range):
 		uniformtext=dict(minsize=10, mode='hide'),
 		margin=dict(t=50, l=25, r=25, b=25),
 		showlegend=False
-)
+	)
 
 	for trace in data_route:
 		fig.add_trace(trace, row=2, col=3)
@@ -356,11 +361,11 @@ def update_subplot(year_type, year_range):
 
 # Define the callback for the table
 @app.callback(
-	Output('month_table'),
+	Output('monthly_data_table', 'figure'),
 	[Input('year-type2', 'value'),
 	Input('year-slider2', 'value')]
 )
-def update_table(year_type2, year_range2):
+def update_monthly_data_table(year_type2, year_range2):
 
 	if year_type2 == 'financial':
 		year_column = 'Fiscal Year'
@@ -371,29 +376,33 @@ def update_table(year_type2, year_range2):
 		plot_title = 'Ridership by Calendar Year'
 		table_headers = ['Year', 'Note', 'Service']  # for table fig
 
-	filtered_df = df[(df[year_column] >= year_range[0]) &
-	                  (df[year_column] <= year_range[1])]
+	filtered_df = df[(df[year_column] >= year_range2[0]) &
+					  (df[year_column] <= year_range2[1])]
 
-    # create a pivot table of the data
-    table_df = filtered_df.groupby(['Year-Month', 'ticket_group','ticket_type'], sort=True)['total_number'].sum().reset_index()
-    table_df_pivot = table_df.pivot_table(index='Year-Month', columns=['ticket_group','ticket_type'], values='total_number', sort=True, fill_value=0)
-    table_df_pivot['Month Total']=table_df_pivot.sum(axis=1)
-    table_df_pivot.index = table_df_pivot.index.astype(str)
-    table_df_pivot.reset_index(inplace=True)
-    table_df_pivot=table_df_pivot.rename(columns={'index':'Year-Month'})
-    
-    #Create table figure
-    #fig.add_trace(
-    #.Table(
-    #eader=dict(values=list(table_df_pivot.columns)),
-    #ells=dict(values=[table_df_pivot.iloc[:,num] for num in range(len(table_df_pivot.columns))],
-    #align=['right']*len(table_df_pivot.columns))
-    #),
-    #=3, col=1
-	
-	
+	# create a pivot table of the data
+	table_df = filtered_df.groupby(['Year-Month', 'ticket_group','ticket_type'], sort=True)['total_number'].sum().reset_index()
+	table_df_pivot = table_df.pivot_table(index='Year-Month', columns=['ticket_group','ticket_type'], values='total_number', sort=True, fill_value=0)
+	table_df_pivot['Month Total']=table_df_pivot.sum(axis=1)
+	table_df_pivot.index = table_df_pivot.index.astype(str)
+	table_df_pivot.reset_index(inplace=True)
+	table_df_pivot=table_df_pivot.rename(columns={'index':'Year-Month'})
+
+	# create table figure
+	fig = go.Figure(data=[go.Table(
+		header=dict(values=list(table_df_pivot.columns)),
+		cells=dict(values=[table_df_pivot.iloc[:, num] for num in range(len(table_df_pivot.columns))],
+				   align=['right'] * len(table_df_pivot.columns))
+			)
+		]
+	)
+
+	fig.update_layout(
+		height=600,
+		margin=dict(l=20, r=20, t=60, b=20),
+		showlegend=False
+	)
+
 	return fig
-
 
 
 
