@@ -2,7 +2,7 @@
   "agencies": [
     {
       "agency_key": "bart",
-      "url": "http://www.bart.gov/dev/schedules/google_transit.zip"
+      "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/albanytransit-or-us/albanytransit-or-us.zip"
     }
   ],
   "sqlitePath": "/tmp/gtfs",
@@ -17,7 +17,7 @@
   "interpolatedStopSymbol": "•",
   "interpolatedStopText": "Estimated time of arrival",
   "linkStopUrls": true,
-  "mapboxAccessToken": "YOUR MAPBOX ACCESS TOKEN",
+  "mapboxAccessToken": "pk.eyJ1IjoiYnJlbmRhbm5lZSIsImEiOiJjaXRkMWIzbzEwMDV5MnRvMzJwbjRiaWc3In0.smzRW-NB_BCAGAQiEOvJdg",
   "menuType": "simple",
   "noDropoffSymbol": "‡",
   "noDropoffText": "No drop off available",
